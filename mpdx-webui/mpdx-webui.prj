@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>WebUI test scripts</description>
+   <name>mpdx-webui</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>qTest</productName>
+      <properties>
+         <entry>
+            <key>0</key>
+            <value>{'testSuiteFolderMappeds':[],'name':'qConnect - Sample Project','testCaseFolderMappeds':[],'id':63237}</value>
+         </entry>
+         <entry>
+            <key>1</key>
+            <value>{'testSuiteFolderMappeds':[],'name':'CRM','testCaseFolderMappeds':[],'id':70340}</value>
+         </entry>
+         <entry>
+            <key>2</key>
+            <value>{'testSuiteFolderMappeds':[],'name':'MissionHub','testCaseFolderMappeds':[],'id':70341}</value>
+         </entry>
+         <entry>
+            <key>3</key>
+            <value>{'testSuiteFolderMappeds':['Test Suites'],'name':'MPDx','testCaseFolderMappeds':['Test Cases'],'id':70035}</value>
+         </entry>
+      </properties>
+      <type>PROJECT</type>
+   </integratedEntity>
+   <UUID>559a0786-f704-48b1-8086-9b178a68a75c</UUID>
+   <migratedVersion>5.7.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+</Project>

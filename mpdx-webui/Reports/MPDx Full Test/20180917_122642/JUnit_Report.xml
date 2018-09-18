@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="MPDx Full Test" time="65" tests="2" failures="1" errors="0">
+   <testsuite name="MPDx Full Test" tests="2" failures="1" errors="0" time="65" timestamp="2018-09-17 12:26:43" hostname="bob.buford - 10.12.70.3" id="Test Suites/MPDx Full Test">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/bob.buford/Data/mpdx/mpdxqa/mpdx-webui/Reports/MPDx Full Test/20180917_122642"/>
+         <property name="logFiles" value="/Users/bob.buford/Data/mpdx/mpdxqa/mpdx-webui/Reports/MPDx Full Test/20180917_122642/execution0.log"/>
+         <property name="attachments" value="/Users/bob.buford/Data/mpdx/mpdxqa/mpdx-webui/Reports/MPDx Full Test/20180917_122642/1537201652717.png"/>
+         <property name="hostName" value="bob.buford - 10.12.70.3"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="5.7.1.1"/>
+         <property name="browser" value="Chrome 69.0.3497.92"/>
+         <property name="hostAddress" value="10.12.70.3"/>
+         <property name="sessionId" value="e29ad549562edc961570997273ae8e8f"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/MPDX-login" classname="Test Cases/MPDX-login" status="PASSED">
+         <system-out><![CDATA[2018-09-17 12:26:43 - [TEST_CASE][PASSED] - Test Cases/MPDX-login: Test Cases/MPDX-login
+
+2018-09-17 12:26:44 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-09-17 12:26:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-17 12:26:47 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://stage.mpdx.org/' successfully
+
+2018-09-17 12:26:50 - [MESSAGE][PASSED] - Navigate to 'https://stage.mpdx.org/' successfully
+
+2018-09-17 12:26:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Login/a_Log into Relay' is clicked on
+
+2018-09-17 12:26:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Login/a_Log into Relay' is clicked on
+
+2018-09-17 12:26:52 - [TEST_STEP][PASSED] - setText: Text 'test@test.com' is set on object 'Object Repository/Page_Relay  Sign In/input_Email_username'
+
+2018-09-17 12:26:56 - [MESSAGE][PASSED] - Text 'test@test.com' is set on object 'Object Repository/Page_Relay  Sign In/input_Email_username'
+
+2018-09-17 12:26:56 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Page_Relay  Sign In/input_Password_password'
+
+2018-09-17 12:27:00 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Relay  Sign In/input_Password_password'
+
+2018-09-17 12:27:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Relay  Sign In/button_Sign In' is clicked on
+
+2018-09-17 12:27:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Relay  Sign In/button_Sign In' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/MPDX-topmenus" classname="Test Cases/MPDX-topmenus" status="FAILED">
+         <failure type="FAILED" message="(Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_MPDX  Dashboard/button_CloseHelp' (Root cause: java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1536608778282.run(Script1536608778282.groovy:49)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1537201602127.run(TempTestSuite1537201602127.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)"/>
+         <system-out><![CDATA[2018-09-17 12:27:05 - [TEST_CASE][FAILED] - Test Cases/MPDX-topmenus: Test Cases/MPDX-topmenus FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_MPDX  Dashboard/button_CloseHelp' (Root cause: java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1536608778282.run(Script1536608778282.groovy:49)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1537201602127.run(TempTestSuite1537201602127.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)
+
+2018-09-17 12:27:05 - [TEST_STEP][PASSED] - waitForAngularLoad: Angular is ready.
+
+2018-09-17 12:27:07 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-17 12:27:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Contacts' is clicked on
+
+2018-09-17 12:27:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Contacts' is clicked on
+
+2018-09-17 12:27:09 - [TEST_STEP][PASSED] - waitForAngularLoad: Angular is ready.
+
+2018-09-17 12:27:11 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-17 12:27:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Tasks' is clicked on
+
+2018-09-17 12:27:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Tasks' is clicked on
+
+2018-09-17 12:27:14 - [TEST_STEP][PASSED] - waitForAngularLoad: Angular is ready.
+
+2018-09-17 12:27:16 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-17 12:27:16 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Reports' is clicked on
+
+2018-09-17 12:27:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Reports' is clicked on
+
+2018-09-17 12:27:18 - [TEST_STEP][PASSED] - waitForAngularLoad: Angular is ready.
+
+2018-09-17 12:27:20 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-17 12:27:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Tools' is clicked on
+
+2018-09-17 12:27:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Tools' is clicked on
+
+2018-09-17 12:27:22 - [TEST_STEP][PASSED] - waitForAngularLoad: Angular is ready.
+
+2018-09-17 12:27:24 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-17 12:27:24 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Coaching' is clicked on
+
+2018-09-17 12:27:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Coaching' is clicked on
+
+2018-09-17 12:27:26 - [TEST_STEP][PASSED] - waitForAngularLoad: Angular is ready.
+
+2018-09-17 12:27:28 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-17 12:27:28 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Help' is clicked on
+
+2018-09-17 12:27:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Help' is clicked on
+
+2018-09-17 12:27:30 - [TEST_STEP][PASSED] - waitForAngularLoad: Angular is ready.
+
+2018-09-17 12:27:32 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-17 12:27:32 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Page_MPDX  Dashboard/button_CloseHelp' (Root cause: java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.)
+
+2018-09-17 12:27:34 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_MPDX  Dashboard/button_CloseHelp' (Root cause: java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.)
+[[ATTACHMENT|/Users/bob.buford/Data/mpdx/mpdxqa/mpdx-webui/Reports/MPDx Full Test/20180917_122642/1537201652717.png]]]]></system-out>
+         <system-err><![CDATA[2018-09-17 12:27:05 - [TEST_CASE][FAILED] - Test Cases/MPDX-topmenus: Test Cases/MPDX-topmenus FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_MPDX  Dashboard/button_CloseHelp' (Root cause: java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1536608778282.run(Script1536608778282.groovy:49)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1537201602127.run(TempTestSuite1537201602127.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/MPDX-logout" classname="Test Cases/MPDX-logout" status="PASSED">
+         <system-out><![CDATA[2018-09-17 12:27:36 - [TEST_CASE][PASSED] - Test Cases/MPDX-logout: Test Cases/MPDX-logout
+
+2018-09-17 12:27:36 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-17 12:27:36 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-17 12:27:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Settings' is clicked on
+
+2018-09-17 12:27:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Settings' is clicked on
+
+2018-09-17 12:27:38 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Page_MPDX  Dashboard/a_Log out' is visible
+
+2018-09-17 12:27:40 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MPDX  Dashboard/a_Log out' is visible
+
+2018-09-17 12:27:40 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Log out' is clicked on
+
+2018-09-17 12:27:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Log out' is clicked on
+
+2018-09-17 12:27:43 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Page_MPDX  Login/a_Log into Relay' is visible
+
+2018-09-17 12:27:45 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MPDX  Login/a_Log into Relay' is visible
+
+2018-09-17 12:27:45 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-09-17 12:27:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-09-17 12:26:43 - [TEST_SUITE][FAILED] - MPDx Full Test: Test Cases/MPDX-topmenus FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_MPDX  Dashboard/button_CloseHelp' (Root cause: java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1536608778282.run(Script1536608778282.groovy:49)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1537201602127.run(TempTestSuite1537201602127.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)]]></system-out>
+      <system-err><![CDATA[2018-09-17 12:26:43 - [TEST_SUITE][FAILED] - MPDx Full Test: Test Cases/MPDX-topmenus FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_MPDX  Dashboard/button_CloseHelp' (Root cause: java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1536608778282.run(Script1536608778282.groovy:49)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1537201602127.run(TempTestSuite1537201602127.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)]]></system-err>
+   </testsuite>
+</testsuites>

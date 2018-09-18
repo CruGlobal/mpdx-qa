@@ -1,0 +1,56 @@
+1
+00:00:00,082 --> 00:00:00,083
+1. waitForAngularLoad
+
+2
+00:00:02,135 --> 00:00:02,137
+7. Open Contacts list
+
+3
+00:00:04,240 --> 00:00:04,241
+11. waitForAngularLoad
+
+4
+00:00:06,265 --> 00:00:06,266
+17. Open Tasks List
+
+5
+00:00:08,373 --> 00:00:08,374
+21. waitForAngularLoad
+
+6
+00:00:10,397 --> 00:00:10,398
+27. Open Reports display
+
+7
+00:00:12,585 --> 00:00:12,586
+31. waitForAngularLoad
+
+8
+00:00:14,607 --> 00:00:14,608
+37. Open Tools menu
+
+9
+00:00:16,753 --> 00:00:16,754
+41. waitForAngularLoad
+
+10
+00:00:18,772 --> 00:00:18,773
+47. Open Coaching display
+
+11
+00:00:20,874 --> 00:00:20,875
+51. waitForAngularLoad
+
+12
+00:00:22,894 --> 00:00:22,895
+57. Open Help menu
+
+13
+00:00:24,974 --> 00:00:24,975
+61. waitForAngularLoad
+
+14
+00:00:26,996 --> 00:00:26,996
+67. Close Help menu
+

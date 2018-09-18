@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="MPDX In-n-out" time="60" tests="2" failures="0" errors="0">
+   <testsuite name="MPDX In-n-out" tests="2" failures="0" errors="0" time="60" timestamp="2018-09-14 11:38:23" hostname="bob.buford - 10.12.70.3" id="Test Suites/MPDX In-n-out">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/bob.buford/Data/mpdx/mpdxqa/mpdx-webui/Reports/MPDX In-n-out/20180914_113821"/>
+         <property name="logFiles" value="/Users/bob.buford/Data/mpdx/mpdxqa/mpdx-webui/Reports/MPDX In-n-out/20180914_113821/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="bob.buford - 10.12.70.3"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="5.7.0.1"/>
+         <property name="browser" value="Chrome 69.0.3497.92"/>
+         <property name="hostAddress" value="10.12.70.3"/>
+         <property name="sessionId" value="2daf8f16bca9a0c1d9e942b6cc1be83c"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/MPDX-login" classname="Test Cases/MPDX-login" status="PASSED">
+         <system-out><![CDATA[2018-09-14 11:38:23 - [TEST_CASE][PASSED] - Test Cases/MPDX-login: Test Cases/MPDX-login
+
+2018-09-14 11:38:23 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-09-14 11:38:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-14 11:38:29 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://stage.mpdx.org/' successfully
+
+2018-09-14 11:38:32 - [MESSAGE][PASSED] - Navigate to 'https://stage.mpdx.org/' successfully
+
+2018-09-14 11:38:32 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Login/a_Log into Relay' is clicked on
+
+2018-09-14 11:38:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Login/a_Log into Relay' is clicked on
+
+2018-09-14 11:38:36 - [TEST_STEP][PASSED] - setText: Text 'test@test.com' is set on object 'Object Repository/Page_Relay  Sign In/input_Email_username'
+
+2018-09-14 11:38:44 - [MESSAGE][PASSED] - Text 'test@test.com' is set on object 'Object Repository/Page_Relay  Sign In/input_Email_username'
+
+2018-09-14 11:38:44 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Page_Relay  Sign In/input_Password_password'
+
+2018-09-14 11:38:51 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Relay  Sign In/input_Password_password'
+
+2018-09-14 11:38:51 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Relay  Sign In/button_Sign In' is clicked on
+
+2018-09-14 11:38:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Relay  Sign In/button_Sign In' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/MPDX-logout" classname="Test Cases/MPDX-logout" status="PASSED">
+         <system-out><![CDATA[2018-09-14 11:38:58 - [TEST_CASE][PASSED] - Test Cases/MPDX-logout: Test Cases/MPDX-logout
+
+2018-09-14 11:38:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Dashboard' is clicked on
+
+2018-09-14 11:39:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Dashboard' is clicked on
+
+2018-09-14 11:39:02 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Settings' is clicked on
+
+2018-09-14 11:39:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Settings' is clicked on
+
+2018-09-14 11:39:06 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Page_MPDX  Dashboard/a_Log out' is visible
+
+2018-09-14 11:39:10 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MPDX  Dashboard/a_Log out' is visible
+
+2018-09-14 11:39:10 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Log out' is clicked on
+
+2018-09-14 11:39:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Log out' is clicked on
+
+2018-09-14 11:39:15 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Page_MPDX  Login/a_Log into Relay' is visible
+
+2018-09-14 11:39:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MPDX  Login/a_Log into Relay' is visible
+
+2018-09-14 11:39:19 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-09-14 11:39:21 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-09-14 11:38:23 - [TEST_SUITE][PASSED] - MPDX In-n-out: Test Cases/MPDX-logout]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="MPDx Full Test" time="48" tests="2" failures="1" errors="0">
+   <testsuite name="MPDx Full Test" tests="2" failures="1" errors="0" time="48" timestamp="2018-09-18 13:41:42" hostname="bob.buford - 10.12.70.3" id="Test Suites/MPDx Full Test">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/bob.buford/Data/mpdx/mpdxqa/mpdx-webui/Reports/MPDx Full Test/20180918_134140"/>
+         <property name="logFiles" value="/Users/bob.buford/Data/mpdx/mpdxqa/mpdx-webui/Reports/MPDx Full Test/20180918_134140/execution0.log"/>
+         <property name="attachments" value="/Users/bob.buford/Data/mpdx/mpdxqa/mpdx-webui/Reports/MPDx Full Test/20180918_134140/1537292534679.png"/>
+         <property name="hostName" value="bob.buford - 10.12.70.3"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="5.7.1.1"/>
+         <property name="browser" value="Chrome 69.0.3497.100"/>
+         <property name="hostAddress" value="10.12.70.3"/>
+         <property name="sessionId" value="b02335d8cdcb1ab79cb94b6189dffadf"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/MPDX-login" classname="Test Cases/MPDX-login" status="PASSED">
+         <system-out><![CDATA[2018-09-18 13:41:42 - [TEST_CASE][PASSED] - Test Cases/MPDX-login: Test Cases/MPDX-login
+
+2018-09-18 13:41:43 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-09-18 13:41:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-18 13:41:46 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://stage.mpdx.org/' successfully
+
+2018-09-18 13:41:49 - [MESSAGE][PASSED] - Navigate to 'https://stage.mpdx.org/' successfully
+
+2018-09-18 13:41:49 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Login/a_Log into Relay' is clicked on
+
+2018-09-18 13:41:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Login/a_Log into Relay' is clicked on
+
+2018-09-18 13:41:51 - [TEST_STEP][PASSED] - setText: Text 'test@test.com' is set on object 'Object Repository/Page_Relay  Sign In/input_Email_username'
+
+2018-09-18 13:41:55 - [MESSAGE][PASSED] - Text 'test@test.com' is set on object 'Object Repository/Page_Relay  Sign In/input_Email_username'
+
+2018-09-18 13:41:55 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Page_Relay  Sign In/input_Password_password'
+
+2018-09-18 13:41:58 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Relay  Sign In/input_Password_password'
+
+2018-09-18 13:41:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Relay  Sign In/button_Sign In' is clicked on
+
+2018-09-18 13:42:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Relay  Sign In/button_Sign In' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/MPDX-tasks" classname="Test Cases/MPDX-tasks" status="FAILED">
+         <failure type="FAILED" message="(Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_MPDX  Tasks/div_Today_select-box icon-fixe' (Root cause: java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1537219407234.run(Script1537219407234.groovy:89)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1537292500970.run(TempTestSuite1537292500970.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)"/>
+         <system-out><![CDATA[2018-09-18 13:42:04 - [TEST_CASE][FAILED] - Test Cases/MPDX-tasks: Test Cases/MPDX-tasks FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_MPDX  Tasks/div_Today_select-box icon-fixe' (Root cause: java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1537219407234.run(Script1537219407234.groovy:89)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1537292500970.run(TempTestSuite1537292500970.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)
+
+2018-09-18 13:42:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Tasks' is clicked on
+
+2018-09-18 13:42:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Tasks' is clicked on
+
+2018-09-18 13:42:08 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:08 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:08 - [TEST_STEP][PASSED] - setText: Text 'katalon-task' is set on object 'Object Repository/Page_MPDX  Tasks/input_Search Task (1)'
+
+2018-09-18 13:42:12 - [MESSAGE][PASSED] - Text 'katalon-task' is set on object 'Object Repository/Page_MPDX  Tasks/input_Search Task (1)'
+
+2018-09-18 13:42:12 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Tasks/span_Search Task Execute (1)' is clicked on
+
+2018-09-18 13:42:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Tasks/span_Search Task Execute (1)' is clicked on
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - setText: NOT_RUN: setText
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: setText
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - setText: NOT_RUN: setText
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: setText
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - setText: NOT_RUN: setText
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: setText
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - setText: NOT_RUN: setText
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: setText
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - setText: NOT_RUN: setText
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: setText
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - setText: NOT_RUN: setText
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: setText
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - setText: NOT_RUN: setText
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: setText
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - setText: NOT_RUN: setText
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: setText
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - setText: NOT_RUN: setText
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: setText
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - setText: NOT_RUN: setText
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: setText
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - setText: NOT_RUN: setText
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: setText
+
+2018-09-18 13:42:14 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:14 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:14 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Page_MPDX  Tasks/div_Today_select-box icon-fixe' (Root cause: java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.)
+
+2018-09-18 13:42:16 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_MPDX  Tasks/div_Today_select-box icon-fixe' (Root cause: java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.)
+[[ATTACHMENT|/Users/bob.buford/Data/mpdx/mpdxqa/mpdx-webui/Reports/MPDx Full Test/20180918_134140/1537292534679.png]]]]></system-out>
+         <system-err><![CDATA[2018-09-18 13:42:04 - [TEST_CASE][FAILED] - Test Cases/MPDX-tasks: Test Cases/MPDX-tasks FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_MPDX  Tasks/div_Today_select-box icon-fixe' (Root cause: java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1537219407234.run(Script1537219407234.groovy:89)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1537292500970.run(TempTestSuite1537292500970.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/MPDX-logout" classname="Test Cases/MPDX-logout" status="PASSED">
+         <system-out><![CDATA[2018-09-18 13:42:18 - [TEST_CASE][PASSED] - Test Cases/MPDX-logout: Test Cases/MPDX-logout
+
+2018-09-18 13:42:18 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-09-18 13:42:18 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-09-18 13:42:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Settings' is clicked on
+
+2018-09-18 13:42:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Settings' is clicked on
+
+2018-09-18 13:42:20 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Page_MPDX  Dashboard/a_Log out' is visible
+
+2018-09-18 13:42:22 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MPDX  Dashboard/a_Log out' is visible
+
+2018-09-18 13:42:22 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Log out' is clicked on
+
+2018-09-18 13:42:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Log out' is clicked on
+
+2018-09-18 13:42:25 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Page_MPDX  Login/a_Log into Relay' is visible
+
+2018-09-18 13:42:27 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MPDX  Login/a_Log into Relay' is visible
+
+2018-09-18 13:42:27 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-09-18 13:42:28 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-09-18 13:41:42 - [TEST_SUITE][FAILED] - MPDx Full Test: Test Cases/MPDX-tasks FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_MPDX  Tasks/div_Today_select-box icon-fixe' (Root cause: java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1537219407234.run(Script1537219407234.groovy:89)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1537292500970.run(TempTestSuite1537292500970.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)]]></system-out>
+      <system-err><![CDATA[2018-09-18 13:41:42 - [TEST_SUITE][FAILED] - MPDx Full Test: Test Cases/MPDX-tasks FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_MPDX  Tasks/div_Today_select-box icon-fixe' (Root cause: java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1537219407234.run(Script1537219407234.groovy:89)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1537292500970.run(TempTestSuite1537292500970.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)]]></system-err>
+   </testsuite>
+</testsuites>

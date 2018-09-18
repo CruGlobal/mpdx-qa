@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="MPDx Full Test" time="24" tests="3" failures="0" errors="0">
+   <testsuite name="MPDx Full Test" tests="3" failures="0" errors="0" time="24" timestamp="2018-09-11 08:05:40" hostname="bob.buford - 10.12.70.3" id="Test Suites/MPDx Full Test">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/bob.buford/Data/mpdx/mpdxqa/mpdx-webui/Reports/MPDx Full Test/20180911_080535"/>
+         <property name="logFiles" value="/Users/bob.buford/Data/mpdx/mpdxqa/mpdx-webui/Reports/MPDx Full Test/20180911_080535/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="bob.buford - 10.12.70.3"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="5.7.0.1"/>
+         <property name="browser" value="Chrome 68.0.3440.106"/>
+         <property name="hostAddress" value="10.12.70.3"/>
+         <property name="sessionId" value="e05a8c20a78fb997ee13bdc29830e2fa"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/MPDX-login" classname="Test Cases/MPDX-login" status="PASSED">
+         <system-out><![CDATA[2018-09-11 08:05:40 - [TEST_CASE][PASSED] - Test Cases/MPDX-login: Test Cases/MPDX-login
+
+2018-09-11 08:05:41 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-09-11 08:05:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-11 08:05:44 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://stage.mpdx.org/' successfully
+
+2018-09-11 08:05:46 - [MESSAGE][PASSED] - Navigate to 'https://stage.mpdx.org/' successfully
+
+2018-09-11 08:05:46 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Login/a_Log into Relay' is clicked on
+
+2018-09-11 08:05:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Login/a_Log into Relay' is clicked on
+
+2018-09-11 08:05:46 - [TEST_STEP][PASSED] - setText: Text 'test@test.com' is set on object 'Object Repository/Page_Relay  Sign In/input_Email_username'
+
+2018-09-11 08:05:47 - [MESSAGE][PASSED] - Text 'test@test.com' is set on object 'Object Repository/Page_Relay  Sign In/input_Email_username'
+
+2018-09-11 08:05:47 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Page_Relay  Sign In/input_Password_password'
+
+2018-09-11 08:05:47 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Relay  Sign In/input_Password_password'
+
+2018-09-11 08:05:47 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Relay  Sign In/button_Sign In' is clicked on
+
+2018-09-11 08:05:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Relay  Sign In/button_Sign In' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/MPDX-topmenus" classname="Test Cases/MPDX-topmenus" status="PASSED">
+         <system-out><![CDATA[2018-09-11 08:05:49 - [TEST_CASE][PASSED] - Test Cases/MPDX-topmenus: Test Cases/MPDX-topmenus
+
+2018-09-11 08:05:49 - [TEST_STEP][PASSED] - waitForAngularLoad: Angular is ready.
+
+2018-09-11 08:05:52 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-11 08:05:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Contacts' is clicked on
+
+2018-09-11 08:05:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Contacts' is clicked on
+
+2018-09-11 08:05:53 - [TEST_STEP][PASSED] - waitForAngularLoad: Angular is ready.
+
+2018-09-11 08:05:59 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-11 08:05:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Tasks' is clicked on
+
+2018-09-11 08:05:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Tasks' is clicked on
+
+2018-09-11 08:05:59 - [TEST_STEP][PASSED] - waitForAngularLoad: Angular is ready.
+
+2018-09-11 08:06:01 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-11 08:06:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Reports' is clicked on
+
+2018-09-11 08:06:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Reports' is clicked on
+
+2018-09-11 08:06:01 - [TEST_STEP][PASSED] - waitForAngularLoad: Angular is ready.
+
+2018-09-11 08:06:02 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-11 08:06:02 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Tools' is clicked on
+
+2018-09-11 08:06:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Tools' is clicked on
+
+2018-09-11 08:06:03 - [TEST_STEP][PASSED] - waitForAngularLoad: Angular is ready.
+
+2018-09-11 08:06:03 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-11 08:06:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Coaching' is clicked on
+
+2018-09-11 08:06:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Coaching' is clicked on
+
+2018-09-11 08:06:03 - [TEST_STEP][PASSED] - waitForAngularLoad: Angular is ready.
+
+2018-09-11 08:06:03 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-11 08:06:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Help' is clicked on
+
+2018-09-11 08:06:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Help' is clicked on
+
+2018-09-11 08:06:03 - [TEST_STEP][PASSED] - waitForAngularLoad: Angular is ready.
+
+2018-09-11 08:06:03 - [MESSAGE][PASSED] - Angular is ready.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/MPDX-logout" classname="Test Cases/MPDX-logout" status="PASSED">
+         <system-out><![CDATA[2018-09-11 08:06:03 - [TEST_CASE][PASSED] - Test Cases/MPDX-logout: Test Cases/MPDX-logout
+
+2018-09-11 08:06:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Dashboard' is clicked on
+
+2018-09-11 08:06:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Dashboard' is clicked on
+
+2018-09-11 08:06:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Settings' is clicked on
+
+2018-09-11 08:06:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Settings' is clicked on
+
+2018-09-11 08:06:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_MPDX  Dashboard/a_Log out' is clicked on
+
+2018-09-11 08:06:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_MPDX  Dashboard/a_Log out' is clicked on
+
+2018-09-11 08:06:04 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Page_MPDX  Login/a_Log into Relay' is visible
+
+2018-09-11 08:06:04 - [MESSAGE][PASSED] - Object 'Object Repository/Page_MPDX  Login/a_Log into Relay' is visible
+
+2018-09-11 08:06:04 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-09-11 08:06:05 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-09-11 08:05:40 - [TEST_SUITE][PASSED] - MPDx Full Test: Test Cases/MPDX-logout]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,88 @@
+1
+00:00:00,090 --> 00:00:00,090
+1. click
+
+2
+00:00:02,324 --> 00:00:02,326
+5. waitForElementClickable
+
+3
+00:00:02,333 --> 00:00:02,334
+11. Connect - Add a new task button
+
+4
+00:00:02,336 --> 00:00:02,337
+17. Close the new task dialog
+
+5
+00:00:02,340 --> 00:00:02,341
+21. waitForAngularLoad
+
+6
+00:00:02,342 --> 00:00:02,343
+27. Show contacts whose first commitment gifts were not received
+
+7
+00:00:02,343 --> 00:00:02,344
+31. waitForAngularLoad
+
+8
+00:00:02,348 --> 00:00:02,349
+35. back
+
+9
+00:00:02,353 --> 00:00:02,354
+39. waitForElementClickable
+
+10
+00:00:02,355 --> 00:00:02,356
+45. Show contacts whose commitments are over 30 days late
+
+11
+00:00:02,357 --> 00:00:02,358
+49. waitForAngularLoad
+
+12
+00:00:02,358 --> 00:00:02,359
+53. back
+
+13
+00:00:02,360 --> 00:00:02,360
+57. waitForElementClickable
+
+14
+00:00:02,361 --> 00:00:02,363
+63. Show contacts whose commitments are over 60 days late
+
+15
+00:00:02,363 --> 00:00:02,364
+67. waitForAngularLoad
+
+16
+00:00:02,365 --> 00:00:02,366
+71. back
+
+17
+00:00:02,367 --> 00:00:02,367
+75. waitForElementClickable
+
+18
+00:00:02,368 --> 00:00:02,369
+81. Show contacts whose commitments are over 90 days late
+
+19
+00:00:02,370 --> 00:00:02,371
+85. waitForAngularLoad
+
+20
+00:00:02,371 --> 00:00:02,372
+89. back
+
+21
+00:00:02,373 --> 00:00:02,375
+93. waitForElementClickable
+
+22
+00:00:04,440 --> 00:00:04,440
+99. Log newsletter
+

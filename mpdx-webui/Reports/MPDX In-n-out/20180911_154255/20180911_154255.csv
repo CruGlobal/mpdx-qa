@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+MPDX In-n-out,Firefox 62.0,,2018-09-11 15:42:57,2018-09-11 15:43:16,19.548s,FAILED
+,,,,,,
+Test Cases/MPDX-login,Firefox 62.0,,2018-09-11 15:42:57,2018-09-11 15:43:06,9.056s,PASSED
+openBrowser,Firefox 62.0,,2018-09-11 15:42:57,2018-09-11 15:43:01,3.422s,PASSED
+navigateToUrl,Firefox 62.0,,2018-09-11 15:43:01,2018-09-11 15:43:03,2.303s,PASSED
+click,Firefox 62.0,,2018-09-11 15:43:03,2018-09-11 15:43:04,1.156s,PASSED
+setText,Firefox 62.0,,2018-09-11 15:43:04,2018-09-11 15:43:04,0.104s,PASSED
+setEncryptedText,Firefox 62.0,,2018-09-11 15:43:04,2018-09-11 15:43:04,0.107s,PASSED
+click,Firefox 62.0,,2018-09-11 15:43:04,2018-09-11 15:43:06,1.768s,PASSED
+,,,,,,
+Test Cases/MPDX-dashboard,Firefox 62.0,,2018-09-11 15:43:06,2018-09-11 15:43:14,7.790s,FAILED
+click,Firefox 62.0,,2018-09-11 15:43:06,2018-09-11 15:43:09,2.686s,PASSED
+click,Firefox 62.0,Show contacts whose first commitment gifts were not received,2018-09-11 15:43:09,2018-09-11 15:43:09,0.346s,PASSED
+waitForAngularLoad,Firefox 62.0,,2018-09-11 15:43:09,2018-09-11 15:43:13,3.569s,PASSED
+back,Firefox 62.0,,2018-09-11 15:43:13,2018-09-11 15:43:13,0.037s,PASSED
+waitForElementClickable,Firefox 62.0,,2018-09-11 15:43:13,2018-09-11 15:43:13,0.402s,PASSED
+click,Firefox 62.0,Show contacts whose commitments are over 30 days late,2018-09-11 15:43:13,2018-09-11 15:43:14,0.607s,FAILED
+,,,,,,
+Test Cases/MPDX-logout,Firefox 62.0,,2018-09-11 15:43:14,2018-09-11 15:43:16,2.425s,PASSED
+click,Firefox 62.0,,2018-09-11 15:43:14,2018-09-11 15:43:14,0.306s,PASSED
+click,Firefox 62.0,,2018-09-11 15:43:14,2018-09-11 15:43:15,0.288s,PASSED
+waitForElementVisible,Firefox 62.0,,2018-09-11 15:43:15,2018-09-11 15:43:15,0.135s,PASSED
+click,Firefox 62.0,,2018-09-11 15:43:15,2018-09-11 15:43:16,1.258s,PASSED
+waitForElementVisible,Firefox 62.0,,2018-09-11 15:43:16,2018-09-11 15:43:16,0.042s,PASSED
+closeBrowser,Firefox 62.0,,2018-09-11 15:43:16,2018-09-11 15:43:16,0.237s,PASSED
