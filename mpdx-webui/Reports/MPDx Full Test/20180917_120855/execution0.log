@@ -2409,3 +2409,3075 @@
   <nestedLevel>0</nestedLevel>
 </record>
 </log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-09-19T10:54:11</date>
+  <millis>1537368851701</millis>
+  <sequence>1208</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>200</thread>
+  <message>User set preference: [&amp;apos;acceptSslCerts&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:54:11</date>
+  <millis>1537368851703</millis>
+  <sequence>1209</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>200</thread>
+  <message>User set preference: [&amp;apos;sessionDescription&amp;apos;, &amp;apos;&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:54:11</date>
+  <millis>1537368851703</millis>
+  <sequence>1210</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>200</thread>
+  <message>User set preference: [&amp;apos;platformVersion&amp;apos;, &amp;apos;7.0&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:54:11</date>
+  <millis>1537368851703</millis>
+  <sequence>1211</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>200</thread>
+  <message>User set preference: [&amp;apos;sessionName&amp;apos;, &amp;apos;Automation test session&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:54:11</date>
+  <millis>1537368851704</millis>
+  <sequence>1212</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>200</thread>
+  <message>User set preference: [&amp;apos;captureSreenShots&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:54:11</date>
+  <millis>1537368851704</millis>
+  <sequence>1213</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>200</thread>
+  <message>User set preference: [&amp;apos;deviceOrientation&amp;apos;, &amp;apos;portrait&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:54:11</date>
+  <millis>1537368851704</millis>
+  <sequence>1214</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>200</thread>
+  <message>User set preference: [&amp;apos;platformName&amp;apos;, &amp;apos;Android&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:54:11</date>
+  <millis>1537368851704</millis>
+  <sequence>1215</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>200</thread>
+  <message>User set preference: [&amp;apos;deviceName&amp;apos;, &amp;apos;Galaxy S8+&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:54:51</date>
+  <millis>1537368891686</millis>
+  <sequence>1217</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>200</thread>
+  <message>Logging run data &amp;apos;appiumVersion&amp;apos; with value &amp;apos;1.8.1&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.8.1</property>
+</record>
+<record>
+  <date>2018-09-19T10:54:52</date>
+  <millis>1537368892048</millis>
+  <sequence>1218</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>200</thread>
+  <message>Logging run data &amp;apos;deviceId&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2018-09-19T10:54:52</date>
+  <millis>1537368892048</millis>
+  <sequence>1219</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>200</thread>
+  <message>Logging run data &amp;apos;deviceName&amp;apos; with value &amp;apos;Galaxy S8+&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy S8+</property>
+</record>
+<record>
+  <date>2018-09-19T10:54:52</date>
+  <millis>1537368892049</millis>
+  <sequence>1220</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>200</thread>
+  <message>Logging run data &amp;apos;deviceModel&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2018-09-19T10:54:52</date>
+  <millis>1537368892049</millis>
+  <sequence>1221</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>200</thread>
+  <message>Logging run data &amp;apos;deviceManufacturer&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2018-09-19T10:54:52</date>
+  <millis>1537368892050</millis>
+  <sequence>1222</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>200</thread>
+  <message>Logging run data &amp;apos;deviceOS&amp;apos; with value &amp;apos;Android&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2018-09-19T10:54:52</date>
+  <millis>1537368892050</millis>
+  <sequence>1223</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>200</thread>
+  <message>Logging run data &amp;apos;deviceOSVersion&amp;apos; with value &amp;apos;7.0&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">7.0</property>
+</record>
+<record>
+  <date>2018-09-19T10:55:25</date>
+  <millis>1537368925718</millis>
+  <sequence>1224</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>221</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:55:43</date>
+  <millis>1537368943150</millis>
+  <sequence>1225</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>227</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:55:52</date>
+  <millis>1537368952888</millis>
+  <sequence>1226</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>233</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:56:09</date>
+  <millis>1537368969980</millis>
+  <sequence>1227</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>239</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:57:20</date>
+  <millis>1537369040179</millis>
+  <sequence>1228</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>256</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:57:32</date>
+  <millis>1537369052307</millis>
+  <sequence>1229</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>256</thread>
+  <message>Object MPDX not found</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:59:57</date>
+  <millis>1537369197294</millis>
+  <sequence>1230</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>270</thread>
+  <message>User set preference: [&amp;apos;acceptSslCerts&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:59:57</date>
+  <millis>1537369197294</millis>
+  <sequence>1231</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>270</thread>
+  <message>User set preference: [&amp;apos;sessionDescription&amp;apos;, &amp;apos;&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:59:57</date>
+  <millis>1537369197295</millis>
+  <sequence>1232</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>270</thread>
+  <message>User set preference: [&amp;apos;platformVersion&amp;apos;, &amp;apos;7.0&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:59:57</date>
+  <millis>1537369197295</millis>
+  <sequence>1233</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>270</thread>
+  <message>User set preference: [&amp;apos;sessionName&amp;apos;, &amp;apos;Automation test session&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:59:57</date>
+  <millis>1537369197295</millis>
+  <sequence>1234</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>270</thread>
+  <message>User set preference: [&amp;apos;captureSreenShots&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:59:57</date>
+  <millis>1537369197295</millis>
+  <sequence>1235</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>270</thread>
+  <message>User set preference: [&amp;apos;deviceOrientation&amp;apos;, &amp;apos;portrait&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:59:57</date>
+  <millis>1537369197295</millis>
+  <sequence>1236</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>270</thread>
+  <message>User set preference: [&amp;apos;platformName&amp;apos;, &amp;apos;Android&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T10:59:57</date>
+  <millis>1537369197295</millis>
+  <sequence>1237</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>270</thread>
+  <message>User set preference: [&amp;apos;deviceName&amp;apos;, &amp;apos;Galaxy S8+&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:00:29</date>
+  <millis>1537369229907</millis>
+  <sequence>1238</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>280</thread>
+  <message>User set preference: [&amp;apos;acceptSslCerts&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:00:29</date>
+  <millis>1537369229908</millis>
+  <sequence>1239</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>280</thread>
+  <message>User set preference: [&amp;apos;sessionDescription&amp;apos;, &amp;apos;&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:00:29</date>
+  <millis>1537369229908</millis>
+  <sequence>1240</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>280</thread>
+  <message>User set preference: [&amp;apos;platformVersion&amp;apos;, &amp;apos;7.0&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:00:29</date>
+  <millis>1537369229909</millis>
+  <sequence>1241</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>280</thread>
+  <message>User set preference: [&amp;apos;sessionName&amp;apos;, &amp;apos;Automation test session&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:00:29</date>
+  <millis>1537369229909</millis>
+  <sequence>1242</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>280</thread>
+  <message>User set preference: [&amp;apos;captureSreenShots&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:00:29</date>
+  <millis>1537369229909</millis>
+  <sequence>1243</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>280</thread>
+  <message>User set preference: [&amp;apos;deviceOrientation&amp;apos;, &amp;apos;portrait&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:00:29</date>
+  <millis>1537369229909</millis>
+  <sequence>1244</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>280</thread>
+  <message>User set preference: [&amp;apos;platformName&amp;apos;, &amp;apos;Android&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:00:29</date>
+  <millis>1537369229909</millis>
+  <sequence>1245</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>280</thread>
+  <message>User set preference: [&amp;apos;deviceName&amp;apos;, &amp;apos;Galaxy S6&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:00:36</date>
+  <millis>1537369236416</millis>
+  <sequence>1246</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>270</thread>
+  <message>Logging run data &amp;apos;deviceId&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2018-09-19T11:00:36</date>
+  <millis>1537369236416</millis>
+  <sequence>1247</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>270</thread>
+  <message>Logging run data &amp;apos;deviceName&amp;apos; with value &amp;apos;Galaxy S8+&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy S8+</property>
+</record>
+<record>
+  <date>2018-09-19T11:00:36</date>
+  <millis>1537369236417</millis>
+  <sequence>1248</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>270</thread>
+  <message>Logging run data &amp;apos;deviceModel&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2018-09-19T11:00:36</date>
+  <millis>1537369236417</millis>
+  <sequence>1249</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>270</thread>
+  <message>Logging run data &amp;apos;deviceManufacturer&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2018-09-19T11:00:36</date>
+  <millis>1537369236418</millis>
+  <sequence>1250</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>270</thread>
+  <message>Logging run data &amp;apos;deviceOS&amp;apos; with value &amp;apos;Android&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2018-09-19T11:00:36</date>
+  <millis>1537369236418</millis>
+  <sequence>1251</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>270</thread>
+  <message>Logging run data &amp;apos;deviceOSVersion&amp;apos; with value &amp;apos;7.0&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">7.0</property>
+</record>
+<record>
+  <date>2018-09-19T11:01:28</date>
+  <millis>1537369288715</millis>
+  <sequence>1253</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>280</thread>
+  <message>Logging run data &amp;apos;appiumVersion&amp;apos; with value &amp;apos;1.8.1&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.8.1</property>
+</record>
+<record>
+  <date>2018-09-19T11:01:29</date>
+  <millis>1537369289050</millis>
+  <sequence>1254</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>280</thread>
+  <message>Logging run data &amp;apos;deviceId&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2018-09-19T11:01:29</date>
+  <millis>1537369289050</millis>
+  <sequence>1255</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>280</thread>
+  <message>Logging run data &amp;apos;deviceName&amp;apos; with value &amp;apos;Galaxy S6&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy S6</property>
+</record>
+<record>
+  <date>2018-09-19T11:01:29</date>
+  <millis>1537369289052</millis>
+  <sequence>1256</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>280</thread>
+  <message>Logging run data &amp;apos;deviceModel&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2018-09-19T11:01:29</date>
+  <millis>1537369289053</millis>
+  <sequence>1257</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>280</thread>
+  <message>Logging run data &amp;apos;deviceManufacturer&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2018-09-19T11:01:29</date>
+  <millis>1537369289053</millis>
+  <sequence>1258</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>280</thread>
+  <message>Logging run data &amp;apos;deviceOS&amp;apos; with value &amp;apos;Android&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2018-09-19T11:01:29</date>
+  <millis>1537369289053</millis>
+  <sequence>1259</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>280</thread>
+  <message>Logging run data &amp;apos;deviceOSVersion&amp;apos; with value &amp;apos;7.0&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">7.0</property>
+</record>
+<record>
+  <date>2018-09-19T11:01:51</date>
+  <millis>1537369311985</millis>
+  <sequence>1260</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>295</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:02:04</date>
+  <millis>1537369324170</millis>
+  <sequence>1261</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>301</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:02:10</date>
+  <millis>1537369330738</millis>
+  <sequence>1262</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>307</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:08:50</date>
+  <millis>1537369730370</millis>
+  <sequence>1263</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>331</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:09:16</date>
+  <millis>1537369756062</millis>
+  <sequence>1264</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>338</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:09:31</date>
+  <millis>1537369771239</millis>
+  <sequence>1265</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>344</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:13:41</date>
+  <millis>1537370021679</millis>
+  <sequence>1266</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>391</thread>
+  <message>User set preference: [&amp;apos;acceptSslCerts&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:13:41</date>
+  <millis>1537370021681</millis>
+  <sequence>1267</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>391</thread>
+  <message>User set preference: [&amp;apos;sessionDescription&amp;apos;, &amp;apos;&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:13:41</date>
+  <millis>1537370021682</millis>
+  <sequence>1268</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>391</thread>
+  <message>User set preference: [&amp;apos;platformVersion&amp;apos;, &amp;apos;7.0&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:13:41</date>
+  <millis>1537370021682</millis>
+  <sequence>1269</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>391</thread>
+  <message>User set preference: [&amp;apos;sessionName&amp;apos;, &amp;apos;Automation test session&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:13:41</date>
+  <millis>1537370021682</millis>
+  <sequence>1270</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>391</thread>
+  <message>User set preference: [&amp;apos;captureSreenShots&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:13:41</date>
+  <millis>1537370021682</millis>
+  <sequence>1271</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>391</thread>
+  <message>User set preference: [&amp;apos;deviceOrientation&amp;apos;, &amp;apos;portrait&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:13:41</date>
+  <millis>1537370021683</millis>
+  <sequence>1272</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>391</thread>
+  <message>User set preference: [&amp;apos;platformName&amp;apos;, &amp;apos;Android&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:13:41</date>
+  <millis>1537370021683</millis>
+  <sequence>1273</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>391</thread>
+  <message>User set preference: [&amp;apos;deviceName&amp;apos;, &amp;apos;Galaxy S6&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:13:41</date>
+  <millis>1537370021939</millis>
+  <sequence>1274</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>391</thread>
+  <message>Logging run data &amp;apos;deviceId&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2018-09-19T11:13:41</date>
+  <millis>1537370021942</millis>
+  <sequence>1275</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>391</thread>
+  <message>Logging run data &amp;apos;deviceName&amp;apos; with value &amp;apos;Galaxy S6&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy S6</property>
+</record>
+<record>
+  <date>2018-09-19T11:13:41</date>
+  <millis>1537370021942</millis>
+  <sequence>1276</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>391</thread>
+  <message>Logging run data &amp;apos;deviceModel&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2018-09-19T11:13:41</date>
+  <millis>1537370021942</millis>
+  <sequence>1277</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>391</thread>
+  <message>Logging run data &amp;apos;deviceManufacturer&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2018-09-19T11:13:41</date>
+  <millis>1537370021943</millis>
+  <sequence>1278</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>391</thread>
+  <message>Logging run data &amp;apos;deviceOS&amp;apos; with value &amp;apos;Android&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2018-09-19T11:13:41</date>
+  <millis>1537370021943</millis>
+  <sequence>1279</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>391</thread>
+  <message>Logging run data &amp;apos;deviceOSVersion&amp;apos; with value &amp;apos;7.0&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">7.0</property>
+</record>
+<record>
+  <date>2018-09-19T11:16:16</date>
+  <millis>1537370176768</millis>
+  <sequence>1280</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>418</thread>
+  <message>User set preference: [&amp;apos;acceptSslCerts&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:16:16</date>
+  <millis>1537370176768</millis>
+  <sequence>1281</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>418</thread>
+  <message>User set preference: [&amp;apos;sessionDescription&amp;apos;, &amp;apos;&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:16:16</date>
+  <millis>1537370176768</millis>
+  <sequence>1282</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>418</thread>
+  <message>User set preference: [&amp;apos;platformVersion&amp;apos;, &amp;apos;7.0&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:16:16</date>
+  <millis>1537370176768</millis>
+  <sequence>1283</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>418</thread>
+  <message>User set preference: [&amp;apos;sessionName&amp;apos;, &amp;apos;Automation test session&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:16:16</date>
+  <millis>1537370176769</millis>
+  <sequence>1284</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>418</thread>
+  <message>User set preference: [&amp;apos;captureSreenShots&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:16:16</date>
+  <millis>1537370176769</millis>
+  <sequence>1285</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>418</thread>
+  <message>User set preference: [&amp;apos;deviceOrientation&amp;apos;, &amp;apos;portrait&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:16:16</date>
+  <millis>1537370176769</millis>
+  <sequence>1286</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>418</thread>
+  <message>User set preference: [&amp;apos;platformName&amp;apos;, &amp;apos;Android&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:16:16</date>
+  <millis>1537370176769</millis>
+  <sequence>1287</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>418</thread>
+  <message>User set preference: [&amp;apos;deviceName&amp;apos;, &amp;apos;Galaxy Note5&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:16:17</date>
+  <millis>1537370177035</millis>
+  <sequence>1288</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>418</thread>
+  <message>Logging run data &amp;apos;deviceId&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2018-09-19T11:16:17</date>
+  <millis>1537370177037</millis>
+  <sequence>1289</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>418</thread>
+  <message>Logging run data &amp;apos;deviceName&amp;apos; with value &amp;apos;Galaxy Note5&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy Note5</property>
+</record>
+<record>
+  <date>2018-09-19T11:16:17</date>
+  <millis>1537370177038</millis>
+  <sequence>1290</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>418</thread>
+  <message>Logging run data &amp;apos;deviceModel&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2018-09-19T11:16:17</date>
+  <millis>1537370177038</millis>
+  <sequence>1291</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>418</thread>
+  <message>Logging run data &amp;apos;deviceManufacturer&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2018-09-19T11:16:17</date>
+  <millis>1537370177039</millis>
+  <sequence>1292</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>418</thread>
+  <message>Logging run data &amp;apos;deviceOS&amp;apos; with value &amp;apos;Android&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2018-09-19T11:16:17</date>
+  <millis>1537370177039</millis>
+  <sequence>1293</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>418</thread>
+  <message>Logging run data &amp;apos;deviceOSVersion&amp;apos; with value &amp;apos;7.0&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">7.0</property>
+</record>
+<record>
+  <date>2018-09-19T11:17:38</date>
+  <millis>1537370258637</millis>
+  <sequence>1294</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>431</thread>
+  <message>User set preference: [&amp;apos;acceptSslCerts&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:17:38</date>
+  <millis>1537370258637</millis>
+  <sequence>1295</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>431</thread>
+  <message>User set preference: [&amp;apos;sessionDescription&amp;apos;, &amp;apos;&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:17:38</date>
+  <millis>1537370258638</millis>
+  <sequence>1296</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>431</thread>
+  <message>User set preference: [&amp;apos;platformVersion&amp;apos;, &amp;apos;7.0&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:17:38</date>
+  <millis>1537370258638</millis>
+  <sequence>1297</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>431</thread>
+  <message>User set preference: [&amp;apos;sessionName&amp;apos;, &amp;apos;Automation test session&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:17:38</date>
+  <millis>1537370258638</millis>
+  <sequence>1298</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>431</thread>
+  <message>User set preference: [&amp;apos;captureSreenShots&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:17:38</date>
+  <millis>1537370258638</millis>
+  <sequence>1299</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>431</thread>
+  <message>User set preference: [&amp;apos;deviceOrientation&amp;apos;, &amp;apos;portrait&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:17:38</date>
+  <millis>1537370258638</millis>
+  <sequence>1300</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>431</thread>
+  <message>User set preference: [&amp;apos;platformName&amp;apos;, &amp;apos;Android&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:17:38</date>
+  <millis>1537370258638</millis>
+  <sequence>1301</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>431</thread>
+  <message>User set preference: [&amp;apos;deviceName&amp;apos;, &amp;apos;Galaxy S7 Edge&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:17:38</date>
+  <millis>1537370258899</millis>
+  <sequence>1302</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>431</thread>
+  <message>Logging run data &amp;apos;deviceId&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2018-09-19T11:17:38</date>
+  <millis>1537370258900</millis>
+  <sequence>1303</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>431</thread>
+  <message>Logging run data &amp;apos;deviceName&amp;apos; with value &amp;apos;Galaxy S7 Edge&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy S7 Edge</property>
+</record>
+<record>
+  <date>2018-09-19T11:17:38</date>
+  <millis>1537370258900</millis>
+  <sequence>1304</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>431</thread>
+  <message>Logging run data &amp;apos;deviceModel&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2018-09-19T11:17:38</date>
+  <millis>1537370258901</millis>
+  <sequence>1305</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>431</thread>
+  <message>Logging run data &amp;apos;deviceManufacturer&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2018-09-19T11:17:38</date>
+  <millis>1537370258901</millis>
+  <sequence>1306</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>431</thread>
+  <message>Logging run data &amp;apos;deviceOS&amp;apos; with value &amp;apos;Android&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2018-09-19T11:17:38</date>
+  <millis>1537370258902</millis>
+  <sequence>1307</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>431</thread>
+  <message>Logging run data &amp;apos;deviceOSVersion&amp;apos; with value &amp;apos;7.0&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">7.0</property>
+</record>
+<record>
+  <date>2018-09-19T11:18:38</date>
+  <millis>1537370318082</millis>
+  <sequence>1308</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>439</thread>
+  <message>User set preference: [&amp;apos;acceptSslCerts&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:18:38</date>
+  <millis>1537370318084</millis>
+  <sequence>1309</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>439</thread>
+  <message>User set preference: [&amp;apos;sessionDescription&amp;apos;, &amp;apos;&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:18:38</date>
+  <millis>1537370318084</millis>
+  <sequence>1310</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>439</thread>
+  <message>User set preference: [&amp;apos;platformVersion&amp;apos;, &amp;apos;7.0&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:18:38</date>
+  <millis>1537370318084</millis>
+  <sequence>1311</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>439</thread>
+  <message>User set preference: [&amp;apos;sessionName&amp;apos;, &amp;apos;Automation test session&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:18:38</date>
+  <millis>1537370318084</millis>
+  <sequence>1312</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>439</thread>
+  <message>User set preference: [&amp;apos;captureSreenShots&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:18:38</date>
+  <millis>1537370318084</millis>
+  <sequence>1313</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>439</thread>
+  <message>User set preference: [&amp;apos;deviceOrientation&amp;apos;, &amp;apos;portrait&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:18:38</date>
+  <millis>1537370318084</millis>
+  <sequence>1314</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>439</thread>
+  <message>User set preference: [&amp;apos;platformName&amp;apos;, &amp;apos;Android&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:18:38</date>
+  <millis>1537370318084</millis>
+  <sequence>1315</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>439</thread>
+  <message>User set preference: [&amp;apos;deviceName&amp;apos;, &amp;apos;Galaxy S7 Edge&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T11:19:09</date>
+  <millis>1537370349516</millis>
+  <sequence>1316</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>439</thread>
+  <message>Logging run data &amp;apos;deviceId&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2018-09-19T11:19:09</date>
+  <millis>1537370349518</millis>
+  <sequence>1317</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>439</thread>
+  <message>Logging run data &amp;apos;deviceName&amp;apos; with value &amp;apos;Galaxy S7 Edge&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy S7 Edge</property>
+</record>
+<record>
+  <date>2018-09-19T11:19:09</date>
+  <millis>1537370349518</millis>
+  <sequence>1318</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>439</thread>
+  <message>Logging run data &amp;apos;deviceModel&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2018-09-19T11:19:09</date>
+  <millis>1537370349519</millis>
+  <sequence>1319</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>439</thread>
+  <message>Logging run data &amp;apos;deviceManufacturer&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2018-09-19T11:19:09</date>
+  <millis>1537370349519</millis>
+  <sequence>1320</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>439</thread>
+  <message>Logging run data &amp;apos;deviceOS&amp;apos; with value &amp;apos;Android&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2018-09-19T11:19:09</date>
+  <millis>1537370349520</millis>
+  <sequence>1321</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>439</thread>
+  <message>Logging run data &amp;apos;deviceOSVersion&amp;apos; with value &amp;apos;7.0&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">7.0</property>
+</record>
+<record>
+  <date>2018-09-19T12:44:06</date>
+  <millis>1537375446448</millis>
+  <sequence>1322</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>467</thread>
+  <message>User set preference: [&amp;apos;acceptSslCerts&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:44:06</date>
+  <millis>1537375446448</millis>
+  <sequence>1323</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>467</thread>
+  <message>User set preference: [&amp;apos;sessionDescription&amp;apos;, &amp;apos;&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:44:06</date>
+  <millis>1537375446448</millis>
+  <sequence>1324</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>467</thread>
+  <message>User set preference: [&amp;apos;platformVersion&amp;apos;, &amp;apos;7.0&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:44:06</date>
+  <millis>1537375446449</millis>
+  <sequence>1325</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>467</thread>
+  <message>User set preference: [&amp;apos;sessionName&amp;apos;, &amp;apos;Automation test session&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:44:06</date>
+  <millis>1537375446449</millis>
+  <sequence>1326</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>467</thread>
+  <message>User set preference: [&amp;apos;captureSreenShots&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:44:06</date>
+  <millis>1537375446449</millis>
+  <sequence>1327</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>467</thread>
+  <message>User set preference: [&amp;apos;deviceOrientation&amp;apos;, &amp;apos;portrait&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:44:06</date>
+  <millis>1537375446449</millis>
+  <sequence>1328</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>467</thread>
+  <message>User set preference: [&amp;apos;platformName&amp;apos;, &amp;apos;Android&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:44:06</date>
+  <millis>1537375446449</millis>
+  <sequence>1329</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>467</thread>
+  <message>User set preference: [&amp;apos;deviceName&amp;apos;, &amp;apos;Galaxy S7 Edge&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:45:08</date>
+  <millis>1537375508648</millis>
+  <sequence>1331</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>467</thread>
+  <message>Logging run data &amp;apos;appiumVersion&amp;apos; with value &amp;apos;1.8.1&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.8.1</property>
+</record>
+<record>
+  <date>2018-09-19T12:45:08</date>
+  <millis>1537375508776</millis>
+  <sequence>1332</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>467</thread>
+  <message>Logging run data &amp;apos;deviceId&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2018-09-19T12:45:08</date>
+  <millis>1537375508777</millis>
+  <sequence>1333</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>467</thread>
+  <message>Logging run data &amp;apos;deviceName&amp;apos; with value &amp;apos;Galaxy S7 Edge&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy S7 Edge</property>
+</record>
+<record>
+  <date>2018-09-19T12:45:08</date>
+  <millis>1537375508779</millis>
+  <sequence>1334</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>467</thread>
+  <message>Logging run data &amp;apos;deviceModel&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2018-09-19T12:45:08</date>
+  <millis>1537375508779</millis>
+  <sequence>1335</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>467</thread>
+  <message>Logging run data &amp;apos;deviceManufacturer&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2018-09-19T12:45:08</date>
+  <millis>1537375508780</millis>
+  <sequence>1336</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>467</thread>
+  <message>Logging run data &amp;apos;deviceOS&amp;apos; with value &amp;apos;Android&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2018-09-19T12:45:08</date>
+  <millis>1537375508780</millis>
+  <sequence>1337</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>467</thread>
+  <message>Logging run data &amp;apos;deviceOSVersion&amp;apos; with value &amp;apos;7.0&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">7.0</property>
+</record>
+<record>
+  <date>2018-09-19T12:45:15</date>
+  <millis>1537375515938</millis>
+  <sequence>1338</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>484</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:45:35</date>
+  <millis>1537375535783</millis>
+  <sequence>1339</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>490</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:45:43</date>
+  <millis>1537375543625</millis>
+  <sequence>1340</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>496</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:46:21</date>
+  <millis>1537375581980</millis>
+  <sequence>1341</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>502</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:46:32</date>
+  <millis>1537375592154</millis>
+  <sequence>1342</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>502</thread>
+  <message>Object android.widget.Button0 - confirm pin not found</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:46:38</date>
+  <millis>1537375598137</millis>
+  <sequence>1343</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>505</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:46:48</date>
+  <millis>1537375608720</millis>
+  <sequence>1344</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>505</thread>
+  <message>Object android.widget.Button0 - confirm pin not found</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:47:03</date>
+  <millis>1537375623875</millis>
+  <sequence>1345</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>508</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:47:13</date>
+  <millis>1537375633971</millis>
+  <sequence>1346</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>508</thread>
+  <message>Object android.widget.Button0 - confirm pin not found</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:48:30</date>
+  <millis>1537375710209</millis>
+  <sequence>1347</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>519</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:48:49</date>
+  <millis>1537375729987</millis>
+  <sequence>1348</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>519</thread>
+  <message>Object android.widget.Button0 - confirm pin not found</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:55:32</date>
+  <millis>1537376132427</millis>
+  <sequence>1349</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>528</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:55:42</date>
+  <millis>1537376142521</millis>
+  <sequence>1350</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>528</thread>
+  <message>Object android.widget.Button0 - confirm pin not found</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:56:50</date>
+  <millis>1537376210520</millis>
+  <sequence>1351</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>554</thread>
+  <message>User set preference: [&amp;apos;acceptSslCerts&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:56:50</date>
+  <millis>1537376210521</millis>
+  <sequence>1352</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>554</thread>
+  <message>User set preference: [&amp;apos;sessionDescription&amp;apos;, &amp;apos;&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:56:50</date>
+  <millis>1537376210521</millis>
+  <sequence>1353</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>554</thread>
+  <message>User set preference: [&amp;apos;platformVersion&amp;apos;, &amp;apos;7.0&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:56:50</date>
+  <millis>1537376210521</millis>
+  <sequence>1354</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>554</thread>
+  <message>User set preference: [&amp;apos;sessionName&amp;apos;, &amp;apos;Automation test session&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:56:50</date>
+  <millis>1537376210521</millis>
+  <sequence>1355</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>554</thread>
+  <message>User set preference: [&amp;apos;captureSreenShots&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:56:50</date>
+  <millis>1537376210521</millis>
+  <sequence>1356</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>554</thread>
+  <message>User set preference: [&amp;apos;deviceOrientation&amp;apos;, &amp;apos;portrait&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:56:50</date>
+  <millis>1537376210521</millis>
+  <sequence>1357</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>554</thread>
+  <message>User set preference: [&amp;apos;platformName&amp;apos;, &amp;apos;Android&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:56:50</date>
+  <millis>1537376210521</millis>
+  <sequence>1358</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>554</thread>
+  <message>User set preference: [&amp;apos;deviceName&amp;apos;, &amp;apos;Galaxy S8+&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:57:29</date>
+  <millis>1537376249846</millis>
+  <sequence>1360</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>554</thread>
+  <message>Logging run data &amp;apos;appiumVersion&amp;apos; with value &amp;apos;1.8.1&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.8.1</property>
+</record>
+<record>
+  <date>2018-09-19T12:57:30</date>
+  <millis>1537376250008</millis>
+  <sequence>1361</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>554</thread>
+  <message>Logging run data &amp;apos;deviceId&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2018-09-19T12:57:30</date>
+  <millis>1537376250009</millis>
+  <sequence>1362</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>554</thread>
+  <message>Logging run data &amp;apos;deviceName&amp;apos; with value &amp;apos;Galaxy S8+&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy S8+</property>
+</record>
+<record>
+  <date>2018-09-19T12:57:30</date>
+  <millis>1537376250010</millis>
+  <sequence>1363</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>554</thread>
+  <message>Logging run data &amp;apos;deviceModel&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2018-09-19T12:57:30</date>
+  <millis>1537376250011</millis>
+  <sequence>1364</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>554</thread>
+  <message>Logging run data &amp;apos;deviceManufacturer&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2018-09-19T12:57:30</date>
+  <millis>1537376250011</millis>
+  <sequence>1365</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>554</thread>
+  <message>Logging run data &amp;apos;deviceOS&amp;apos; with value &amp;apos;Android&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2018-09-19T12:57:30</date>
+  <millis>1537376250012</millis>
+  <sequence>1366</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>554</thread>
+  <message>Logging run data &amp;apos;deviceOSVersion&amp;apos; with value &amp;apos;7.0&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">7.0</property>
+</record>
+<record>
+  <date>2018-09-19T12:57:41</date>
+  <millis>1537376261392</millis>
+  <sequence>1367</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>576</thread>
+  <message>User set preference: [&amp;apos;acceptSslCerts&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:57:41</date>
+  <millis>1537376261392</millis>
+  <sequence>1368</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>576</thread>
+  <message>User set preference: [&amp;apos;sessionDescription&amp;apos;, &amp;apos;&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:57:41</date>
+  <millis>1537376261392</millis>
+  <sequence>1369</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>576</thread>
+  <message>User set preference: [&amp;apos;platformVersion&amp;apos;, &amp;apos;7.0&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:57:41</date>
+  <millis>1537376261392</millis>
+  <sequence>1370</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>576</thread>
+  <message>User set preference: [&amp;apos;sessionName&amp;apos;, &amp;apos;Automation test session&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:57:41</date>
+  <millis>1537376261393</millis>
+  <sequence>1371</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>576</thread>
+  <message>User set preference: [&amp;apos;captureSreenShots&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:57:41</date>
+  <millis>1537376261393</millis>
+  <sequence>1372</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>576</thread>
+  <message>User set preference: [&amp;apos;deviceOrientation&amp;apos;, &amp;apos;portrait&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:57:41</date>
+  <millis>1537376261393</millis>
+  <sequence>1373</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>576</thread>
+  <message>User set preference: [&amp;apos;platformName&amp;apos;, &amp;apos;Android&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:57:41</date>
+  <millis>1537376261393</millis>
+  <sequence>1374</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>576</thread>
+  <message>User set preference: [&amp;apos;deviceName&amp;apos;, &amp;apos;Galaxy S8+&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:58:21</date>
+  <millis>1537376301141</millis>
+  <sequence>1376</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>576</thread>
+  <message>Logging run data &amp;apos;appiumVersion&amp;apos; with value &amp;apos;1.8.1&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.8.1</property>
+</record>
+<record>
+  <date>2018-09-19T12:58:21</date>
+  <millis>1537376301296</millis>
+  <sequence>1377</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>576</thread>
+  <message>Logging run data &amp;apos;deviceId&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2018-09-19T12:58:21</date>
+  <millis>1537376301297</millis>
+  <sequence>1378</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>576</thread>
+  <message>Logging run data &amp;apos;deviceName&amp;apos; with value &amp;apos;Galaxy S8+&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy S8+</property>
+</record>
+<record>
+  <date>2018-09-19T12:58:21</date>
+  <millis>1537376301298</millis>
+  <sequence>1379</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>576</thread>
+  <message>Logging run data &amp;apos;deviceModel&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2018-09-19T12:58:21</date>
+  <millis>1537376301298</millis>
+  <sequence>1380</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>576</thread>
+  <message>Logging run data &amp;apos;deviceManufacturer&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2018-09-19T12:58:21</date>
+  <millis>1537376301298</millis>
+  <sequence>1381</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>576</thread>
+  <message>Logging run data &amp;apos;deviceOS&amp;apos; with value &amp;apos;Android&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2018-09-19T12:58:21</date>
+  <millis>1537376301299</millis>
+  <sequence>1382</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>576</thread>
+  <message>Logging run data &amp;apos;deviceOSVersion&amp;apos; with value &amp;apos;7.0&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">7.0</property>
+</record>
+<record>
+  <date>2018-09-19T12:58:43</date>
+  <millis>1537376323906</millis>
+  <sequence>1383</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>592</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:59:10</date>
+  <millis>1537376350279</millis>
+  <sequence>1384</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>598</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T12:59:17</date>
+  <millis>1537376357297</millis>
+  <sequence>1385</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>604</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:01:37</date>
+  <millis>1537376497118</millis>
+  <sequence>1386</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>649</thread>
+  <message>User set preference: [&amp;apos;acceptSslCerts&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:01:37</date>
+  <millis>1537376497118</millis>
+  <sequence>1387</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>649</thread>
+  <message>User set preference: [&amp;apos;sessionDescription&amp;apos;, &amp;apos;&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:01:37</date>
+  <millis>1537376497119</millis>
+  <sequence>1388</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>649</thread>
+  <message>User set preference: [&amp;apos;platformVersion&amp;apos;, &amp;apos;7.0&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:01:37</date>
+  <millis>1537376497119</millis>
+  <sequence>1389</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>649</thread>
+  <message>User set preference: [&amp;apos;sessionName&amp;apos;, &amp;apos;Automation test session&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:01:37</date>
+  <millis>1537376497119</millis>
+  <sequence>1390</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>649</thread>
+  <message>User set preference: [&amp;apos;captureSreenShots&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:01:37</date>
+  <millis>1537376497119</millis>
+  <sequence>1391</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>649</thread>
+  <message>User set preference: [&amp;apos;deviceOrientation&amp;apos;, &amp;apos;portrait&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:01:37</date>
+  <millis>1537376497119</millis>
+  <sequence>1392</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>649</thread>
+  <message>User set preference: [&amp;apos;platformName&amp;apos;, &amp;apos;Android&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:01:37</date>
+  <millis>1537376497119</millis>
+  <sequence>1393</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>649</thread>
+  <message>User set preference: [&amp;apos;deviceName&amp;apos;, &amp;apos;Galaxy Note5&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:01:38</date>
+  <millis>1537376498043</millis>
+  <sequence>1394</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>649</thread>
+  <message>Logging run data &amp;apos;deviceId&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2018-09-19T13:01:38</date>
+  <millis>1537376498044</millis>
+  <sequence>1395</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>649</thread>
+  <message>Logging run data &amp;apos;deviceName&amp;apos; with value &amp;apos;Galaxy Note5&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy Note5</property>
+</record>
+<record>
+  <date>2018-09-19T13:01:38</date>
+  <millis>1537376498045</millis>
+  <sequence>1396</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>649</thread>
+  <message>Logging run data &amp;apos;deviceModel&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2018-09-19T13:01:38</date>
+  <millis>1537376498046</millis>
+  <sequence>1397</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>649</thread>
+  <message>Logging run data &amp;apos;deviceManufacturer&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2018-09-19T13:01:38</date>
+  <millis>1537376498046</millis>
+  <sequence>1398</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>649</thread>
+  <message>Logging run data &amp;apos;deviceOS&amp;apos; with value &amp;apos;Android&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2018-09-19T13:01:38</date>
+  <millis>1537376498046</millis>
+  <sequence>1399</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>649</thread>
+  <message>Logging run data &amp;apos;deviceOSVersion&amp;apos; with value &amp;apos;7.0&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">7.0</property>
+</record>
+<record>
+  <date>2018-09-19T13:02:02</date>
+  <millis>1537376522117</millis>
+  <sequence>1400</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>658</thread>
+  <message>User set preference: [&amp;apos;acceptSslCerts&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:02:02</date>
+  <millis>1537376522117</millis>
+  <sequence>1401</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>658</thread>
+  <message>User set preference: [&amp;apos;sessionDescription&amp;apos;, &amp;apos;&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:02:02</date>
+  <millis>1537376522117</millis>
+  <sequence>1402</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>658</thread>
+  <message>User set preference: [&amp;apos;platformVersion&amp;apos;, &amp;apos;7.0&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:02:02</date>
+  <millis>1537376522117</millis>
+  <sequence>1403</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>658</thread>
+  <message>User set preference: [&amp;apos;sessionName&amp;apos;, &amp;apos;Automation test session&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:02:02</date>
+  <millis>1537376522118</millis>
+  <sequence>1404</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>658</thread>
+  <message>User set preference: [&amp;apos;captureSreenShots&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:02:02</date>
+  <millis>1537376522118</millis>
+  <sequence>1405</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>658</thread>
+  <message>User set preference: [&amp;apos;deviceOrientation&amp;apos;, &amp;apos;portrait&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:02:02</date>
+  <millis>1537376522118</millis>
+  <sequence>1406</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>658</thread>
+  <message>User set preference: [&amp;apos;platformName&amp;apos;, &amp;apos;Android&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:02:02</date>
+  <millis>1537376522118</millis>
+  <sequence>1407</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>658</thread>
+  <message>User set preference: [&amp;apos;deviceName&amp;apos;, &amp;apos;Galaxy S7 Edge&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:02:57</date>
+  <millis>1537376577954</millis>
+  <sequence>1409</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>658</thread>
+  <message>Logging run data &amp;apos;appiumVersion&amp;apos; with value &amp;apos;1.8.1&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.8.1</property>
+</record>
+<record>
+  <date>2018-09-19T13:02:58</date>
+  <millis>1537376578272</millis>
+  <sequence>1410</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>658</thread>
+  <message>Logging run data &amp;apos;deviceId&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2018-09-19T13:02:58</date>
+  <millis>1537376578272</millis>
+  <sequence>1411</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>658</thread>
+  <message>Logging run data &amp;apos;deviceName&amp;apos; with value &amp;apos;Galaxy S7 Edge&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy S7 Edge</property>
+</record>
+<record>
+  <date>2018-09-19T13:02:58</date>
+  <millis>1537376578275</millis>
+  <sequence>1412</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>658</thread>
+  <message>Logging run data &amp;apos;deviceModel&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2018-09-19T13:02:58</date>
+  <millis>1537376578275</millis>
+  <sequence>1413</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>658</thread>
+  <message>Logging run data &amp;apos;deviceManufacturer&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2018-09-19T13:02:58</date>
+  <millis>1537376578275</millis>
+  <sequence>1414</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>658</thread>
+  <message>Logging run data &amp;apos;deviceOS&amp;apos; with value &amp;apos;Android&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2018-09-19T13:02:58</date>
+  <millis>1537376578276</millis>
+  <sequence>1415</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>658</thread>
+  <message>Logging run data &amp;apos;deviceOSVersion&amp;apos; with value &amp;apos;7.0&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">7.0</property>
+</record>
+<record>
+  <date>2018-09-19T13:03:10</date>
+  <millis>1537376590626</millis>
+  <sequence>1416</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>672</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:03:21</date>
+  <millis>1537376601562</millis>
+  <sequence>1417</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>678</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:03:31</date>
+  <millis>1537376611427</millis>
+  <sequence>1418</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>684</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:04:21</date>
+  <millis>1537376661888</millis>
+  <sequence>1419</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>708</thread>
+  <message>User set preference: [&amp;apos;acceptSslCerts&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:04:21</date>
+  <millis>1537376661888</millis>
+  <sequence>1420</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>708</thread>
+  <message>User set preference: [&amp;apos;sessionDescription&amp;apos;, &amp;apos;&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:04:21</date>
+  <millis>1537376661888</millis>
+  <sequence>1421</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>708</thread>
+  <message>User set preference: [&amp;apos;platformVersion&amp;apos;, &amp;apos;7.0&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:04:21</date>
+  <millis>1537376661889</millis>
+  <sequence>1422</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>708</thread>
+  <message>User set preference: [&amp;apos;sessionName&amp;apos;, &amp;apos;Automation test session&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:04:21</date>
+  <millis>1537376661889</millis>
+  <sequence>1423</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>708</thread>
+  <message>User set preference: [&amp;apos;captureSreenShots&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:04:21</date>
+  <millis>1537376661889</millis>
+  <sequence>1424</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>708</thread>
+  <message>User set preference: [&amp;apos;deviceOrientation&amp;apos;, &amp;apos;portrait&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:04:21</date>
+  <millis>1537376661889</millis>
+  <sequence>1425</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>708</thread>
+  <message>User set preference: [&amp;apos;platformName&amp;apos;, &amp;apos;Android&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:04:21</date>
+  <millis>1537376661889</millis>
+  <sequence>1426</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>708</thread>
+  <message>User set preference: [&amp;apos;deviceName&amp;apos;, &amp;apos;Galaxy S7 Edge&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:04:22</date>
+  <millis>1537376662104</millis>
+  <sequence>1427</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>708</thread>
+  <message>Logging run data &amp;apos;deviceId&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2018-09-19T13:04:22</date>
+  <millis>1537376662105</millis>
+  <sequence>1428</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>708</thread>
+  <message>Logging run data &amp;apos;deviceName&amp;apos; with value &amp;apos;Galaxy S7 Edge&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy S7 Edge</property>
+</record>
+<record>
+  <date>2018-09-19T13:04:22</date>
+  <millis>1537376662105</millis>
+  <sequence>1429</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>708</thread>
+  <message>Logging run data &amp;apos;deviceModel&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2018-09-19T13:04:22</date>
+  <millis>1537376662105</millis>
+  <sequence>1430</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>708</thread>
+  <message>Logging run data &amp;apos;deviceManufacturer&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2018-09-19T13:04:22</date>
+  <millis>1537376662106</millis>
+  <sequence>1431</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>708</thread>
+  <message>Logging run data &amp;apos;deviceOS&amp;apos; with value &amp;apos;Android&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2018-09-19T13:04:22</date>
+  <millis>1537376662106</millis>
+  <sequence>1432</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>708</thread>
+  <message>Logging run data &amp;apos;deviceOSVersion&amp;apos; with value &amp;apos;7.0&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">7.0</property>
+</record>
+<record>
+  <date>2018-09-19T13:04:30</date>
+  <millis>1537376670383</millis>
+  <sequence>1433</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>718</thread>
+  <message>User set preference: [&amp;apos;acceptSslCerts&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:04:30</date>
+  <millis>1537376670383</millis>
+  <sequence>1434</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>718</thread>
+  <message>User set preference: [&amp;apos;sessionDescription&amp;apos;, &amp;apos;&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:04:30</date>
+  <millis>1537376670383</millis>
+  <sequence>1435</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>718</thread>
+  <message>User set preference: [&amp;apos;platformVersion&amp;apos;, &amp;apos;7.0&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:04:30</date>
+  <millis>1537376670383</millis>
+  <sequence>1436</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>718</thread>
+  <message>User set preference: [&amp;apos;sessionName&amp;apos;, &amp;apos;Automation test session&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:04:30</date>
+  <millis>1537376670383</millis>
+  <sequence>1437</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>718</thread>
+  <message>User set preference: [&amp;apos;captureSreenShots&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:04:30</date>
+  <millis>1537376670384</millis>
+  <sequence>1438</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>718</thread>
+  <message>User set preference: [&amp;apos;deviceOrientation&amp;apos;, &amp;apos;portrait&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:04:30</date>
+  <millis>1537376670384</millis>
+  <sequence>1439</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>718</thread>
+  <message>User set preference: [&amp;apos;platformName&amp;apos;, &amp;apos;Android&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:04:30</date>
+  <millis>1537376670384</millis>
+  <sequence>1440</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>718</thread>
+  <message>User set preference: [&amp;apos;deviceName&amp;apos;, &amp;apos;Galaxy S6&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:05:13</date>
+  <millis>1537376713269</millis>
+  <sequence>1442</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>718</thread>
+  <message>Logging run data &amp;apos;appiumVersion&amp;apos; with value &amp;apos;1.8.1&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.8.1</property>
+</record>
+<record>
+  <date>2018-09-19T13:05:13</date>
+  <millis>1537376713502</millis>
+  <sequence>1443</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>718</thread>
+  <message>Logging run data &amp;apos;deviceId&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2018-09-19T13:05:13</date>
+  <millis>1537376713502</millis>
+  <sequence>1444</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>718</thread>
+  <message>Logging run data &amp;apos;deviceName&amp;apos; with value &amp;apos;Galaxy S6&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy S6</property>
+</record>
+<record>
+  <date>2018-09-19T13:05:13</date>
+  <millis>1537376713504</millis>
+  <sequence>1445</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>718</thread>
+  <message>Logging run data &amp;apos;deviceModel&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2018-09-19T13:05:13</date>
+  <millis>1537376713505</millis>
+  <sequence>1446</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>718</thread>
+  <message>Logging run data &amp;apos;deviceManufacturer&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2018-09-19T13:05:13</date>
+  <millis>1537376713505</millis>
+  <sequence>1447</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>718</thread>
+  <message>Logging run data &amp;apos;deviceOS&amp;apos; with value &amp;apos;Android&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2018-09-19T13:05:13</date>
+  <millis>1537376713506</millis>
+  <sequence>1448</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>718</thread>
+  <message>Logging run data &amp;apos;deviceOSVersion&amp;apos; with value &amp;apos;7.0&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">7.0</property>
+</record>
+<record>
+  <date>2018-09-19T13:05:21</date>
+  <millis>1537376721274</millis>
+  <sequence>1449</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>730</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:05:38</date>
+  <millis>1537376738831</millis>
+  <sequence>1450</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>736</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T13:05:46</date>
+  <millis>1537376746598</millis>
+  <sequence>1451</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>742</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:41:15</date>
+  <millis>1537386075823</millis>
+  <sequence>1898</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>965</thread>
+  <message>User set preference: [&amp;apos;acceptSslCerts&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:41:15</date>
+  <millis>1537386075824</millis>
+  <sequence>1899</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>965</thread>
+  <message>User set preference: [&amp;apos;sessionDescription&amp;apos;, &amp;apos;&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:41:15</date>
+  <millis>1537386075824</millis>
+  <sequence>1900</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>965</thread>
+  <message>User set preference: [&amp;apos;platformVersion&amp;apos;, &amp;apos;7.0&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:41:15</date>
+  <millis>1537386075824</millis>
+  <sequence>1901</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>965</thread>
+  <message>User set preference: [&amp;apos;sessionName&amp;apos;, &amp;apos;Automation test session&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:41:15</date>
+  <millis>1537386075824</millis>
+  <sequence>1902</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>965</thread>
+  <message>User set preference: [&amp;apos;captureSreenShots&amp;apos;, &amp;apos;true&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:41:15</date>
+  <millis>1537386075824</millis>
+  <sequence>1903</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>965</thread>
+  <message>User set preference: [&amp;apos;deviceOrientation&amp;apos;, &amp;apos;portrait&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:41:15</date>
+  <millis>1537386075824</millis>
+  <sequence>1904</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>965</thread>
+  <message>User set preference: [&amp;apos;platformName&amp;apos;, &amp;apos;Android&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:41:15</date>
+  <millis>1537386075824</millis>
+  <sequence>1905</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>965</thread>
+  <message>User set preference: [&amp;apos;deviceName&amp;apos;, &amp;apos;Galaxy S8+&amp;apos;]</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:41:43</date>
+  <millis>1537386103511</millis>
+  <sequence>1907</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>965</thread>
+  <message>Logging run data &amp;apos;appiumVersion&amp;apos; with value &amp;apos;1.8.1&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.8.1</property>
+</record>
+<record>
+  <date>2018-09-19T15:41:43</date>
+  <millis>1537386103758</millis>
+  <sequence>1908</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>965</thread>
+  <message>Logging run data &amp;apos;deviceId&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2018-09-19T15:41:43</date>
+  <millis>1537386103759</millis>
+  <sequence>1909</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>965</thread>
+  <message>Logging run data &amp;apos;deviceName&amp;apos; with value &amp;apos;Galaxy S8+&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy S8+</property>
+</record>
+<record>
+  <date>2018-09-19T15:41:43</date>
+  <millis>1537386103759</millis>
+  <sequence>1910</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>965</thread>
+  <message>Logging run data &amp;apos;deviceModel&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2018-09-19T15:41:43</date>
+  <millis>1537386103760</millis>
+  <sequence>1911</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>965</thread>
+  <message>Logging run data &amp;apos;deviceManufacturer&amp;apos; with value &amp;apos;null&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2018-09-19T15:41:43</date>
+  <millis>1537386103760</millis>
+  <sequence>1912</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>965</thread>
+  <message>Logging run data &amp;apos;deviceOS&amp;apos; with value &amp;apos;Android&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2018-09-19T15:41:43</date>
+  <millis>1537386103761</millis>
+  <sequence>1913</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>965</thread>
+  <message>Logging run data &amp;apos;deviceOSVersion&amp;apos; with value &amp;apos;7.0&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">7.0</property>
+</record>
+<record>
+  <date>2018-09-19T15:42:05</date>
+  <millis>1537386125639</millis>
+  <sequence>1914</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>983</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:42:14</date>
+  <millis>1537386134998</millis>
+  <sequence>1915</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>989</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:42:28</date>
+  <millis>1537386148961</millis>
+  <sequence>1916</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>995</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:42:36</date>
+  <millis>1537386156814</millis>
+  <sequence>1917</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1001</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:42:46</date>
+  <millis>1537386166340</millis>
+  <sequence>1918</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1007</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:43:04</date>
+  <millis>1537386184048</millis>
+  <sequence>1919</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1013</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:43:09</date>
+  <millis>1537386189256</millis>
+  <sequence>1920</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1019</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:43:19</date>
+  <millis>1537386199329</millis>
+  <sequence>1921</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1025</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:43:42</date>
+  <millis>1537386222527</millis>
+  <sequence>1922</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1031</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:43:53</date>
+  <millis>1537386233225</millis>
+  <sequence>1923</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1037</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:44:18</date>
+  <millis>1537386258346</millis>
+  <sequence>1924</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1043</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:44:27</date>
+  <millis>1537386267313</millis>
+  <sequence>1925</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1048</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:44:37</date>
+  <millis>1537386277336</millis>
+  <sequence>1926</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1048</thread>
+  <message>Object com.hmh.api not found</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:45:17</date>
+  <millis>1537386317522</millis>
+  <sequence>1927</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1068</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:45:31</date>
+  <millis>1537386331764</millis>
+  <sequence>1928</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1074</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:45:42</date>
+  <millis>1537386342318</millis>
+  <sequence>1929</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1080</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:45:49</date>
+  <millis>1537386349765</millis>
+  <sequence>1930</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1086</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-19T15:45:56</date>
+  <millis>1537386356818</millis>
+  <sequence>1931</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1092</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>
