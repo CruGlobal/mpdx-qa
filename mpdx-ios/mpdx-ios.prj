@@ -3,6 +3,28 @@
    <description></description>
    <name>mpdx-ios</name>
    <tag></tag>
+   <integratedEntity>
+      <productName>qTest</productName>
+      <properties>
+         <entry>
+            <key>0</key>
+            <value>{'testSuiteFolderMappeds':[],'name':'qConnect - Sample Project','testCaseFolderMappeds':[],'id':63237}</value>
+         </entry>
+         <entry>
+            <key>1</key>
+            <value>{'testSuiteFolderMappeds':[],'name':'CRM','testCaseFolderMappeds':[],'id':70340}</value>
+         </entry>
+         <entry>
+            <key>2</key>
+            <value>{'testSuiteFolderMappeds':[],'name':'MissionHub','testCaseFolderMappeds':[],'id':70341}</value>
+         </entry>
+         <entry>
+            <key>3</key>
+            <value>{'testSuiteFolderMappeds':['Test Suites'],'name':'MPDx','testCaseFolderMappeds':['Test Cases'],'id':70035}</value>
+         </entry>
+      </properties>
+      <type>PROJECT</type>
+   </integratedEntity>
    <UUID>c26cc2c3-be04-400a-846f-e73ee87f66a6</UUID>
    <migratedVersion>5.7.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
