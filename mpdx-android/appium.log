@@ -1,0 +1,211 @@
+[Appium] Welcome to Appium v1.8.1
+[Appium] Non-default server args:
+[Appium]   port: 50325
+[Appium]   chromeDriverPort: 50328
+[Appium]   tmpDir: /var/folders/f0/s64r697s00dc09ndnqc0mh7w0000gp/T//Katalon/Appium/Temp1539967225424
+[Appium] Appium REST http interface listener started on 0.0.0.0:50325
+[HTTP] --> GET /wd/hub/status
+[HTTP] {}
+[debug] [MJSONWP] Calling AppiumDriver.getStatus() with args: []
+[debug] [MJSONWP] Responding to client with driver.getStatus() result: {"build":{"version":"1.8.1","revision":null}}
+[HTTP] <-- GET /wd/hub/status 200 21 ms - 83
+[HTTP] 
+[HTTP] --> GET /wd/hub/status
+[HTTP] {}
+[debug] [MJSONWP] Calling AppiumDriver.getStatus() with args: []
+[debug] [MJSONWP] Responding to client with driver.getStatus() result: {"build":{"version":"1.8.1","revision":null}}
+[HTTP] <-- GET /wd/hub/status 200 16 ms - 83
+[HTTP] 
+[HTTP] --> POST /wd/hub/session
+[HTTP] {"desiredCapabilities":{"app":"/Users/bob.buford/Downloads/2713-1.apk","autoGrantPermissions":true,"deviceName":"samsung SM-G530T (Android 5.1.1)","fullReset":false,"newCommandTimeout":1800,"noReset":true,"platform":"ANDROID","platformName":"Android","udid":"ac33deb5"},"capabilities":{"desiredCapabilities":{"app":"/Users/bob.buford/Downloads/2713-1.apk","autoGrantPermissions":true,"deviceName":"samsung SM-G530T (Android 5.1.1)","fullReset":false,"newCommandTimeout":1800,"noReset":true,"platform":"ANDROID","platformName":"Android","udid":"ac33deb5"},"firstMatch":[{"platformName":"android"}]}}
+[debug] [MJSONWP] Calling AppiumDriver.createSession() with args: [{"app":"/Users/bob.buford/Downloads/2713-1.apk","autoGrantPermissions":true,"deviceName":"samsung SM-G530T (Android 5.1.1)","fullReset":false,"newCommandTimeout":1800,"noReset":true,"platform":"ANDROID","platformName":"Android","udid":"ac33deb5"},null,{"desiredCapabilities":{"app":"/Users/bob.buford/Downloads/2713-1.apk","autoGrantPermissions":true,"deviceName":"samsung SM-G530T (Android 5.1.1)","fullReset":false,"newCommandTimeout":1800,"noReset":true,"platform":"ANDROID","platformName":"Android","udid":"ac33deb5"},"firstMatch":[{"platformName":"android"}]}]
+[debug] [BaseDriver] Event 'newSessionRequested' logged at 1539967227941 (12:40:27 GMT-0400 (Eastern Daylight Time))
+[Appium] Could not parse W3C capabilities: 'deviceName' can't be blank. Falling back to JSONWP protocol.
+[Appium] The following capabilities were provided in the JSONWP desired capabilities that are missing in W3C capabilities: ["app","autoGrantPermissions","deviceName","fullReset","newCommandTimeout","noReset","platform","platformName","udid"]. Falling back to JSONWP protocol.
+[Appium] Creating new AndroidDriver (v2.7.0) session
+[Appium] Capabilities:
+[Appium]   app: /Users/bob.buford/Downloads/2713-1.apk
+[Appium]   autoGrantPermissions: true
+[Appium]   deviceName: samsung SM-G530T (Android 5.1.1)
+[Appium]   fullReset: false
+[Appium]   newCommandTimeout: 1800
+[Appium]   noReset: true
+[Appium]   platform: ANDROID
+[Appium]   platformName: Android
+[Appium]   udid: ac33deb5
+[debug] [BaseDriver] Creating session with MJSONWP desired capabilities: {"app":"/Users/bob.buford/D...
+[BaseDriver] The following capabilities were provided, but are not recognized by appium: platform.
+[BaseDriver] Session created with session id: 761dd93f-f473-4472-bc66-9dd8ec04d35e
+[debug] [AndroidDriver] Getting Java version
+[AndroidDriver] Java version is: 1.8.0_181
+[ADB] Checking whether adb is present
+[ADB] Found 1 'build-tools' folders under '/Users/bob.buford/.katalon/tools/android_sdk' (newest first):
+[ADB]     /Users/bob.buford/.katalon/tools/android_sdk/build-tools/28.0.2
+[ADB] Using adb from /Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb
+[AndroidDriver] Retrieving device list
+[debug] [ADB] Trying to find a connected android device
+[debug] [ADB] Getting connected devices...
+[debug] [ADB] 1 device(s) connected
+[AndroidDriver] Using device: ac33deb5
+[debug] [ADB] Setting device id to ac33deb5
+[BaseDriver] Using local app '/Users/bob.buford/Downloads/2713-1.apk'
+[debug] [AndroidDriver] Checking whether app is actually present
+[AndroidDriver] Starting Android session
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 wait-for-device'
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell echo ping'
+[debug] [AndroidDriver] Pushing settings apk to device...
+[debug] [ADB] Getting install status for io.appium.settings
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell pm list packages io.appium.settings'
+[debug] [ADB] App is installed
+[debug] [ADB] Getting package info for 'io.appium.settings'
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell dumpsys package io.appium.settings'
+[ADB] Checking whether aapt is present
+[ADB] Using aapt from /Users/bob.buford/.katalon/tools/android_sdk/build-tools/28.0.2/aapt
+[debug] [ADB] The installed 'io.appium.settings' package does not require upgrade ('2.3.0' >= '2.3.0')
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell ps'
+[debug] [AndroidDriver] io.appium.settings is already running. There is no need to reset its permissions.
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell getprop ro.build.version.sdk'
+[debug] [ADB] Current device property 'ro.build.version.sdk': 22
+[debug] [ADB] Device API level: 22
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell settings put secure mock_location 1'
+[AndroidDriver] setDeviceLanguageCountry requires language or country.
+[AndroidDriver] Got language: 'null' and country: 'null'
+[debug] [Logcat] Starting logcat capture
+[debug] [AndroidDriver] Pushing unlock helper app to device...
+[debug] [ADB] Getting install status for io.appium.unlock
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell pm list packages io.appium.unlock'
+[debug] [ADB] App is installed
+[debug] [ADB] Getting package info for 'io.appium.unlock'
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell dumpsys package io.appium.unlock'
+[debug] [ADB] The installed 'io.appium.unlock' package does not require upgrade ('2.0.0' >= '2.0.0')
+[ADB] Getting device platform version
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell getprop ro.build.version.release'
+[debug] [ADB] Current device property 'ro.build.version.release': 5.1.1
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell wm size'
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell getprop ro.product.model'
+[debug] [ADB] Current device property 'ro.product.model': SM-G530T
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell getprop ro.product.manufacturer'
+[debug] [ADB] Current device property 'ro.product.manufacturer': samsung
+[debug] [AndroidDriver] Parsing package and activity from app manifest
+[ADB] Using the alternative activity name detection method because of: Could not find apkanalyzer in /Users/bob.buford/.katalon/tools/android_sdk/platform-tools/apkanalyzer,/Users/bob.buford/.katalon/tools/android_sdk/emulator/apkanalyzer,/Users/bob.buford/.katalon/tools/android_sdk/tools/apkanalyzer,/Users/bob.buford/.katalon/tools/android_sdk/tools/bin/apkanalyzer,/Users/bob.buford/.katalon/tools/android_sdk/build-tools/28.0.2/apkanalyzer. Do you have the Android SDK installed at '/Users/bob.buford/.katalon/tools/android_sdk'?
+[ADB] Extracting package and launch activity from manifest
+[ADB] Package name: 'org.mpdx'
+[ADB] Main activity name: 'org.mpdx.features.splash.SplashActivity'
+[debug] [AndroidDriver] Parsed package and activity are: org.mpdx/org.mpdx.features.splash.SplashActivity
+[debug] [ADB] Getting install status for org.mpdx
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell pm list packages org.mpdx'
+[debug] [ADB] App is installed
+[debug] [ADB] Getting package info for 'org.mpdx'
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell dumpsys package org.mpdx'
+[debug] [ADB] The installed 'org.mpdx' package does not require upgrade ('2.5.3' >= '2.5.3')
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell rm -rf /data/local/tmp/strings.json'
+[debug] [AndroidDriver] Extracting strings from apk
+[debug] [AndroidDriver] /Users/bob.buford/Downloads/2713-1.apk
+[debug] [AndroidDriver] null
+[debug] [AndroidDriver] /var/folders/f0/s64r697s00dc09ndnqc0mh7w0000gp/T/Katalon/Appium/Temp1539967225424/org.mpdx
+[debug] [ADB] Extracting strings for language: default
+[ADB] Successfully extracted 508 strings from '/Users/bob.buford/Downloads/2713-1.apk' resources for '(default)' configuration
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 push /var/folders/f0/s64r697s00dc09ndnqc0mh7w0000gp/T/Katalon/Appium/Temp1539967225424/org.mpdx/strings.json /data/local/tmp'
+[debug] [AndroidBootstrap] Watching for bootstrap disconnect
+[debug] [ADB] Forwarding system: 4724 to device: 4724
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 forward tcp\:4724 tcp\:4724'
+[debug] [UiAutomator] Starting UiAutomator
+[debug] [UiAutomator] Moving to state 'starting'
+[debug] [UiAutomator] Parsing uiautomator jar
+[debug] [UiAutomator] Found jar name: 'AppiumBootstrap.jar'
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 push /usr/local/lib/node_modules/appium/node_modules/appium-android-bootstrap/bootstrap/bin/AppiumBootstrap.jar /data/local/tmp/'
+[debug] [ADB] Attempting to kill all uiautomator processes
+[debug] [ADB] Getting all processes with uiautomator
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell ps'
+[ADB] No uiautomator process found to kill, continuing...
+[debug] [UiAutomator] Starting UIAutomator
+[debug] [ADB] Creating ADB subprocess with args: ["-P",5037,"-s","ac33deb5","shell","uiautomator","runtest","AppiumBootstrap.jar","-c","io.appium.android.bootstrap.Bootstrap","-e","pkg","org.mpdx","-e","disableAndroidWatchers",false,"-e","acceptSslCerts",false]
+[debug] [UiAutomator] Moving to state 'online'
+[debug] [AndroidBootstrap] [BOOTSTRAP LOG] [debug] json loading complete.
+[debug] [AndroidBootstrap] [BOOTSTRAP LOG] [debug] Registered crash watchers.
+[AndroidBootstrap] Android bootstrap socket is now connected
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell dumpsys window'
+[debug] [AndroidBootstrap] [BOOTSTRAP LOG] [debug] Client connected
+[AndroidDriver] Screen already unlocked, doing nothing
+[debug] [ADB] Device API level: 22
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell am start -W -n org.mpdx/org.mpdx.features.splash.SplashActivity -S -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -f 0x10200000'
+[debug] [ADB] Waiting up to 20000ms for activity matching pkg: 'org.mpdx' and activity: 'org.mpdx.features.splash.SplashActivity' to be focused
+[debug] [ADB] Possible activities, to be checked: 'org.mpdx.features.splash.SplashActivity', 'org.mpdx.org.mpdx.features.splash.SplashActivity'
+[debug] [ADB] Getting focused package and activity
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell dumpsys window windows'
+[debug] [ADB] Found package: 'org.mpdx' and fully qualified activity name : 'org.mpdx.features.splash.SplashActivity'
+[Appium] New AndroidDriver session created successfully, session 761dd93f-f473-4472-bc66-9dd8ec04d35e added to master session list
+[debug] [BaseDriver] Event 'newSessionStarted' logged at 1539967234198 (12:40:34 GMT-0400 (Eastern Daylight Time))
+[debug] [MJSONWP] Responding to client with driver.createSession() result: {"platform":"ANDROID","webStorageEnabled":false,"takesScreenshot":true,"javascriptEnabled":true,"databaseEnabled":false,"networkConnectionEnabled":true,"locationContextEnabled":false,"warnings":{},"desired":{"app":"/Users/bob.buford/Downloads/2713-1.apk","autoGrantPermissions":true,"deviceName":"samsung SM-G530T (Android 5.1.1)","fullReset":false,"newCommandTimeout":1800,"noReset":true,"platform":"ANDROID","platformName":"Android","udid":"ac33deb5"},"app":"/Users/bob.buford/Downloads/2713-1.apk","autoGrantPermissions":true,"deviceName":"ac33deb5","fullReset":false,"newCommandTimeout":1800,"noReset":true,"platformName":"Android","udid":"ac33deb5","deviceUDID":"ac33deb5","platformVersion":"5.1.1","deviceScreenSize":"540x960","deviceModel":"SM-G530T","deviceManufacturer":"samsung","appPackage":"org.mpdx","appWaitPackage":"org.mpdx","appActivity":"org.mpdx.features.splash.SplashActivity","appWaitActivity":"org.mpdx.features.splash.SplashActivity"}
+[HTTP] <-- POST /wd/hub/session 200 6260 ms - 1029
+[HTTP] 
+[HTTP] --> GET /wd/hub/status
+[HTTP] {}
+[debug] [W3C] Calling AppiumDriver.getStatus() with args: []
+[debug] [W3C] Responding to client with driver.getStatus() result: {"build":{"version":"1.8.1","revision":null}}
+[HTTP] <-- GET /wd/hub/status 200 17 ms - 55
+[HTTP] 
+[HTTP] --> POST /wd/hub/session/761dd93f-f473-4472-bc66-9dd8ec04d35e/timeouts
+[HTTP] {"type":"implicit","ms":60000}
+[debug] [W3C] Bad parameters: BadParametersError: Parameters were incorrect. We wanted "W3C protocol expects any of script, pageLoad or implicit to be set" and you sent {"type":"implicit","ms":60000}
+[HTTP] <-- POST /wd/hub/session/761dd93f-f473-4472-bc66-9dd8ec04d35e/timeouts 400 10 ms - 4196
+[HTTP] 
+[HTTP] --> GET /wd/hub/session/761dd93f-f473-4472-bc66-9dd8ec04d35e/source
+[HTTP] {}
+[debug] [W3C] Calling AppiumDriver.getPageSource() with args: ["761dd93f-f473-4472-bc66-9dd8ec04d35e"]
+[debug] [AndroidBootstrap] Sending command to android: {"cmd":"action","action":"source","params":{}}
+[debug] [AndroidBootstrap] [BOOTSTRAP LOG] [debug] Got data from client: {"cmd":"action","action":"source","params":{}}
+[debug] [AndroidBootstrap] [BOOTSTRAP LOG] [debug] Got command of type ACTION
+[debug] [AndroidBootstrap] [BOOTSTRAP LOG] [debug] Got command action: source
+[debug] [AndroidBootstrap] [UIAUTO STDOUT] [APPIUM-UIAUTO] [debug] Returning result: {"status":0,"value":"<?xml version=\"1.0\" encoding=\"UTF-8\"?><hierarchy rotation=\"0\"><android.widget.FrameLayout index=\"0\" text=\"\" class=\"android.widget.FrameLayout\" package=\"org.mpdx\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[13,418][526,580]\" resource-id=\"\" instance=\"0\"><android.widget.LinearLayout index=\"0\" text=\"\" class=\"android.widget.LinearLayout\" package=\"org.mpdx\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[37,442][502,556]\" resource-id=\"\" instance=\"0\"><android.widget.FrameLayout index=\"0\" text=\"\" class=\"android.widget.FrameLayout\" package=\"org.mpdx\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[37,442][502,556]\" resource-id=\"\" instance=\"1\"><android.widget.FrameLayout index=\"0\" text=\"\" class=\"android.widget.FrameLayout\" package=\"org.mpdx\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[37,442][502,556]\" resource-id=\"org.mpdx:id\/action_bar_root\" instance=\"2\"><android.widget.FrameLayout index=\"0\" text=\"\" class=\"android.widget.FrameLayout\" package=\"org.mpdx\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[37,442][502,556]\" resource-id=\"android:id\/content\" instance=\"3\"><android.support.v7.widget.LinearLayoutCompat index=\"0\" text=\"\" class=\"android.support.v7.widget.LinearLayoutCompat\" package=\"org.mpdx\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[37,442][502,556]\" resource-id=\"org.mpdx:id\/parentPanel\" instance=\"0\"><android.widget.FrameLayout index=\"0\" text=\"\" class=\"android.widget.FrameLayout\" package=\"org.mpdx\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[37,442][502,556]\" resource-id=\"org.mpdx:id\/customPanel\" instance=\"4\"><android.widget.FrameLayout index=\"0\" text=\"\" class=\"android.widget.FrameLayout\" package=\"org.mpdx\" content-desc
+[debug] [AndroidBootstrap] [UIAUTO STDOUT] =\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[37,442][502,556]\" resource-id=\"org.mpdx:id\/custom\" instance=\"5\"><android.widget.FrameLayout index=\"0\" text=\"\" class=\"android.widget.FrameLayout\" package=\"org.mpdx\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[37,442][502,556]\" resource-id=\"org.mpdx:id\/loginViewFrame\" instance=\"6\"><android.widget.RelativeLayout index=\"0\" text=\"\" class=\"android.widget.RelativeLayout\" package=\"org.mpdx\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" b
+[debug] [AndroidBootstrap] Received command result from bootstrap
+[debug] [AndroidBootstrap] Stream still not complete, waiting up to 60000ms for the data to arrive
+[debug] [AndroidBootstrap] [UIAUTO STDOUT] ounds=\"[37,442][502,556]\" resource-id=\"org.mpdx:id\/loginProgress\" instance=\"0\"><android.widget.ProgressBar index=\"0\" text=\"\" class=\"android.widget.ProgressBar\" package=\"org.mpdx\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[212,442][326,556]\" resource-id=\"\" instance=\"0\"\/><\/android.widget.RelativeLayout><\/android.widget.FrameLayout><\/android.widget.FrameLayout><\/android.widget.FrameLayout><\/android.support.v7.widget.LinearLayoutCompat><\/android.widget.FrameLayout><\/android.widget.FrameLayout><\/android.widget.FrameLayout><\/android.widget.LinearLayout><\/android.widget.FrameLayout><\/hierarchy>"}[/APPIUM-UIAUTO]
+[debug] [AndroidBootstrap] Received command result from bootstrap
+[debug] [MJSONWP] Responding to client with driver.getPageSource() result: "<?xml version=\"1.0\" encoding=\"UTF-8\"?><hierarchy rotation=\"0\"><android.widget.FrameLayout index=\"0\" text=\"\" class=\"android.widget.FrameLayout\" package=\"org.mpdx\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[13,418][526,580]\" resource-id=\"\" instance=\"0\"><android.widget.LinearLayout index=\"0\" text=\"\" class=\"android.widget.LinearLayout\" package=\"org.mpdx\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\" enabled=\"true\" focusable=\"false\" focused=\"false\" scrollable=\"false\" long-clickable=\"false\" password=\"false\" selected=\"false\" bounds=\"[37,442][502,556]\" resource-id=\"\" instance=\"0\"><android.widget.FrameLayout index=\"0\" text=\"\" class=\"android.widget.FrameLayout\" package=\"org.mpdx\" content-desc=\"\" checkable=\"false\" checked=\"false\" clickable=\"false\...
+[HTTP] <-- GET /wd/hub/session/761dd93f-f473-4472-bc66-9dd8ec04d35e/source 200 272 ms - 4896
+[HTTP] 
+[HTTP] --> GET /wd/hub/session/761dd93f-f473-4472-bc66-9dd8ec04d35e/screenshot
+[HTTP] {}
+[debug] [W3C] Calling AppiumDriver.getScreenshot() with args: ["761dd93f-f473-4472-bc66-9dd8ec04d35e"]
+[debug] [ADB] Device API level: 22
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell dumpsys input'
+[debug] [MJSONWP] Responding to client with driver.getScreenshot() result: "iVBORw0KGgoAAAANSUhEUgAAAhwAAAPACAYAAAB+daCcAABbs0lEQVR4AezBBZjV1cL/7c9ae88wQXcLEkoIIhgYiCIioIKFgWJyFLs7j915bH0sjoqFiAqCgggG2GAiIDIwNEzt2Xtm/9b6X/t5r7kuXh5FlFkg+r1vYzv38YiIiIgEZBEREREJzCIiIiISmEVEREQkMIuIiIhIYHFERESqUV5ODpOevJtYzLKuw8++koJlK5B/pjgiIoHVzMtl0N692W+3nvTsuj3NGjWgTs181hSX8EvhMj775gcmfDCTd2bMpDKdRrZusZilZ5eOxGMx1pVTIxtjDN575J/H2M59PNXIGENWPE52VpyMsvIkGfm5ORhjSFVUUplO471nc8rOyiI7K04sZjEY0lFEqqKSynQaEQmjUf26nHjIIE44ZCBNGzYgOytOVlacmLUYY3DOETlHOh2RrKjg58VLeeiFsbwycSprS0qRrcP4h26lXesWGGPIMMbQrlVz1rdwyTIq02mqrFxTxN4jziSKHPL3F6caGWM4alA/Tjn8QLZr25rVRcX0O/Fc0umI956+l2YNG/DtvJ95/OXxPP/mZLz3hNakQT3OO/5IdunWie3atqZWfh4Zq4uK+XHBIt79+DPue+5lypMpRP4urLXk5+YQs5Yqxhi896wvWVFBRWWaeCxGbk421li892Sko4hEMoVzjo1ljKF+nVoc2n9vLjllOG1bNiNVUcma4hLm/lLA7B/mMb9gCWXlSerUzKddqxbs2KkDTRrUo0v7Njxy7YWcduQQrn3gf3h/1heUJsrZHGIxS8dtWjFv0RIqKiuRjdd+m5Z02KYlv6dNi6asq17tWhgM8s8Qp5p02KYld11yJgP23BVrDZFzrC4qZl316tSiT6/u7LlTN0YMGcB5N9/P9wt+wXtPCE0a1GPC43fStX1bjDEYY6iSn5tDyyaN2GfXHrRr1Zwzrr+bynQakb+D3t278Nj1F9OudQsyUhWVxKwlHo+xrorKSsa9...
+[HTTP] <-- GET /wd/hub/session/761dd93f-f473-4472-bc66-9dd8ec04d35e/screenshot 200 786 ms - 32982
+[HTTP] 
+[debug] [AndroidBootstrap] Emitting alert message...
+[debug] [AndroidBootstrap] [BOOTSTRAP LOG] [debug] Emitting system alert message
+[debug] [AndroidBootstrap] Emitting alert message...
+[debug] [AndroidBootstrap] [BOOTSTRAP LOG] [debug] Emitting system alert message
+[debug] [AndroidBootstrap] Emitting alert message...
+[debug] [AndroidBootstrap] [BOOTSTRAP LOG] [debug] Emitting system alert message
+[debug] [AndroidBootstrap] Emitting alert message...
+[debug] [AndroidBootstrap] [BOOTSTRAP LOG] [debug] Emitting system alert message
+[debug] [AndroidBootstrap] Emitting alert message...
+[debug] [AndroidBootstrap] [BOOTSTRAP LOG] [debug] Emitting system alert message
+[BaseDriver] Shutting down because we waited 1800 seconds for a command
+[debug] [AndroidDriver] Shutting down Android driver
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell am force-stop org.mpdx'
+[Appium] Closing session, cause was 'New Command Timeout of 1800 seconds expired. Try customizing the timeout using the 'newCommandTimeout' desired capability'
+[Appium] Removing session 761dd93f-f473-4472-bc66-9dd8ec04d35e from our master session list
+[debug] [ADB] Pressing the HOME button
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell input keyevent 3'
+[debug] [AndroidBootstrap] Sending command to android: {"cmd":"shutdown"}
+[debug] [AndroidBootstrap] [BOOTSTRAP LOG] [debug] Got data from client: {"cmd":"shutdown"}
+[debug] [AndroidBootstrap] [BOOTSTRAP LOG] [debug] Got command of type SHUTDOWN
+[debug] [AndroidBootstrap] [BOOTSTRAP LOG] [debug] Returning result: {"status":0,"value":"OK, shutting down"}
+[debug] [AndroidBootstrap] Received command result from bootstrap
+[debug] [UiAutomator] Shutting down UiAutomator
+[debug] [UiAutomator] Moving to state 'stopping'
+[debug] [UiAutomator] UiAutomator shut down normally
+[debug] [UiAutomator] Moving to state 'stopped'
+[debug] [ADB] Attempting to kill all uiautomator processes
+[debug] [ADB] Getting all processes with uiautomator
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell ps'
+[ADB] No uiautomator process found to kill, continuing...
+[debug] [UiAutomator] Moving to state 'stopped'
+[debug] [Logcat] Stopping logcat capture
+[debug] [ADB] Running '/Users/bob.buford/.katalon/tools/android_sdk/platform-tools/adb -P 5037 -s ac33deb5 shell am force-stop io.appium.unlock'
+[debug] [AndroidDriver] Not cleaning generated files. Add `clearSystemFiles` capability if wanted.
+[Appium] Received SIGTERM - shutting down

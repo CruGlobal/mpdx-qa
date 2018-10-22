@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Add a New Task</name>
+   <name>a_Add a New Task (1)</name>
    <tag></tag>
-   <elementGuidId>91f7f3d8-100d-4770-9006-c05967c990f1</elementGuidId>
+   <elementGuidId>4ef7cdb3-dc8a-4764-ad8d-e92751ef1f39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

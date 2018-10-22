@@ -15,49 +15,49 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.click(findTestObject('Page_MPDX  Dashboard/a_Dashboard'))
 
-not_run: WebUI.waitForElementClickable(findTestObject('Page_MPDX  Dashboard/commitment 1st gift not recvd'), 0)
+WebUI.waitForElementClickable(findTestObject('Page_MPDX  Dashboard/a_Add a New Task'), 0)
 
 'Connect - Add a new task button'
-not_run: WebUI.click(findTestObject('Page_MPDX  Dashboard/a_Add a New Task'))
+WebUI.click(findTestObject('Page_MPDX  Dashboard/a_Add a New Task'))
 
 'Close the new task dialog'
-not_run: WebUI.click(findTestObject('Page_MPDX  Dashboard/button_Cancel'))
+WebUI.click(findTestObject('Page_MPDX  Dashboard/button_Cancel'))
 
-not_run: WebUI.waitForAngularLoad(15)
+WebUI.waitForAngularLoad(15)
 
 'Show contacts whose first commitment gifts were not received'
-not_run: WebUI.click(findTestObject('Page_MPDX  Dashboard/commitment 1st gift not recvd'))
+WebUI.click(findTestObject('Page_MPDX  Dashboard/commitment 1st gift not recvd'))
 
-not_run: WebUI.waitForAngularLoad(10)
+WebUI.waitForAngularLoad(10)
 
-not_run: WebUI.back()
+WebUI.back()
 
-not_run: WebUI.waitForElementClickable(findTestObject('Page_MPDX  Dashboard/commitment 30 days late'), 0)
+WebUI.waitForElementClickable(findTestObject('Page_MPDX  Dashboard/commitment 30 days late'), 0)
 
 'Show contacts whose commitments are over 30 days late'
-not_run: WebUI.click(findTestObject('Page_MPDX  Dashboard/commitment 30 days late'))
+WebUI.click(findTestObject('Page_MPDX  Dashboard/commitment 30 days late'))
 
-not_run: WebUI.waitForAngularLoad(10)
+WebUI.waitForAngularLoad(10)
 
-not_run: WebUI.back()
+WebUI.back()
 
-not_run: WebUI.waitForElementClickable(findTestObject('Page_MPDX  Dashboard/commitment 60 days late'), 0)
+WebUI.waitForElementClickable(findTestObject('Page_MPDX  Dashboard/commitment 60 days late'), 0)
 
 'Show contacts whose commitments are over 60 days late'
-not_run: WebUI.click(findTestObject('Page_MPDX  Dashboard/commitment 60 days late'))
+WebUI.click(findTestObject('Page_MPDX  Dashboard/commitment 60 days late'))
 
-not_run: WebUI.waitForAngularLoad(10)
+WebUI.waitForAngularLoad(10)
 
-not_run: WebUI.back()
+WebUI.back()
 
-not_run: WebUI.waitForElementClickable(findTestObject('Page_MPDX  Dashboard/commitment 90 days late'), 0)
+WebUI.waitForElementClickable(findTestObject('Page_MPDX  Dashboard/commitment 90 days late'), 0)
 
 'Show contacts whose commitments are over 90 days late'
-not_run: WebUI.click(findTestObject('Page_MPDX  Dashboard/commitment 90 days late'))
+WebUI.click(findTestObject('Page_MPDX  Dashboard/commitment 90 days late'))
 
-not_run: WebUI.waitForAngularLoad(10)
+WebUI.waitForAngularLoad(10)
 
-not_run: WebUI.back()
+WebUI.back()
 
 WebUI.waitForElementClickable(findTestObject('Page_MPDX  Dashboard/button_Care Actions'), 0)
 
@@ -66,7 +66,7 @@ WebUI.click(findTestObject('Page_MPDX  Dashboard/a_Care-Actions Log Newsletter')
 
 WebUI.waitForPageLoad(5)
 
-not_run: WebUI.sendKeys(findTestObject('Page_MPDX  Dashboard/button_Care Actions'), 'KEY_CANCEL')
+WebUI.sendKeys(findTestObject('Page_MPDX  Dashboard/button_Care Actions'), 'KEY_CANCEL')
 
 WebUI.back()
 

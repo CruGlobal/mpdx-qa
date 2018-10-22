@@ -4,7 +4,7 @@
    <name>MPDX In-n-out</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-09-14T15:47:50</lastRun>
+   <lastRun>2018-10-18T11:04:43</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -20,7 +20,7 @@
    <testCaseLink>
       <guid>a47cecce-d8e4-47fd-b186-9518ea95653e</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/MPDX-dashboard</testCaseId>
    </testCaseLink>
    <testCaseLink>
