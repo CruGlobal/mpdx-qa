@@ -4,7 +4,21 @@
    <name>a_Add a New Task</name>
    <tag></tag>
    <elementGuidId>91f7f3d8-100d-4770-9006-c05967c990f1</elementGuidId>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[(text() = '
+            Add a New Task
+        ' or . = '
+            Add a New Task
+        ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
