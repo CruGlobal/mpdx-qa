@@ -15,9 +15,9 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.m
 DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.cucumber.keyword.internal.CucumberDriverCleaner())
 
 
-RunConfiguration.setExecutionSettingFile('/var/folders/f0/s64r697s00dc09ndnqc0mh7w0000gp/T/Katalon/Test Cases/mpdx-test1/20181022_124418/execution.properties')
+RunConfiguration.setExecutionSettingFile('/var/folders/f0/s64r697s00dc09ndnqc0mh7w0000gp/T/Katalon/Test Cases/Android create task/20181212_112726/execution.properties')
 
 TestCaseMain.beforeStart()
 
-        TestCaseMain.runTestCase('Test Cases/mpdx-test1', new TestCaseBinding('Test Cases/mpdx-test1',[:]), FailureHandling.STOP_ON_FAILURE , false)
+        TestCaseMain.runTestCase('Test Cases/Android create task', new TestCaseBinding('Test Cases/Android create task',[:]), FailureHandling.STOP_ON_FAILURE , false)
     

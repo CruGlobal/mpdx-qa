@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Basic test" time="159" tests="3" failures="0" errors="0">
+   <testsuite name="Basic test" tests="3" failures="0" errors="0" time="159" timestamp="2018-12-12 11:59:36" hostname="bob.buford - 10.12.70.3" id="Test Suites/Basic test">
+      <properties>
+         <property name="deviceName" value="Galaxy S7 edge"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/bob.buford/Data/mpdx/mpdx-qa/mpdx-android/Reports/Basic test/20181212_115932"/>
+         <property name="logFiles" value="/Users/bob.buford/Data/mpdx/mpdx-qa/mpdx-android/Reports/Basic test/20181212_115932/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="bob.buford - 10.12.70.3"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="4.1.0.2"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.8.1"/>
+         <property name="deviceModel" value="null"/>
+         <property name="hostAddress" value="10.12.70.3"/>
+         <property name="deviceManufacturer" value="null"/>
+         <property name="deviceId" value="null"/>
+         <property name="deviceName" value="Galaxy S7 edge"/>
+         <property name="deviceOSVersion" value="7.0"/>
+      </properties>
+      <testcase name="Test Cases/Android Log In" classname="Test Cases/Android Log In" status="PASSED">
+         <system-out><![CDATA[2018-12-12 11:59:36 - [TEST_CASE][PASSED] - Test Cases/Android Log In: Test Cases/Android Log In
+
+2018-12-12 11:59:36 - [TEST_STEP][PASSED] - startApplication: Started app at: 'kobiton-store:21961'
+
+2018-12-12 12:00:29 - [MESSAGE][PASSED] - Started app at: 'kobiton-store:21961'
+
+2018-12-12 12:00:29 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.Button0 - get started'
+
+2018-12-12 12:00:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-12-12 12:00:33 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.Button0 - get started'
+
+2018-12-12 12:00:33 - [TEST_STEP][PASSED] - setText: Text '1111' has been set to element 'Object Repository/android.widget.EditText0'
+
+2018-12-12 12:00:33 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-12-12 12:00:35 - [MESSAGE][PASSED] - Text '1111' has been set to element 'Object Repository/android.widget.EditText0'
+
+2018-12-12 12:00:35 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.Button0 - confirm pin'
+
+2018-12-12 12:00:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-12-12 12:00:39 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.Button0 - confirm pin'
+
+2018-12-12 12:00:39 - [TEST_STEP][PASSED] - switchToPortrait: Switching the device to portrait mode successfully
+
+2018-12-12 12:00:40 - [MESSAGE][PASSED] - Switching the device to portrait mode successfully
+
+2018-12-12 12:00:40 - [TEST_STEP][PASSED] - setText: Text 'test@test.com' has been set to element 'Object Repository/android.widget.EditText0 (1)'
+
+2018-12-12 12:00:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-12-12 12:00:57 - [MESSAGE][PASSED] - Text 'test@test.com' has been set to element 'Object Repository/android.widget.EditText0 (1)'
+
+2018-12-12 12:00:57 - [TEST_STEP][PASSED] - setText: Text 'Test1234' has been set to element 'Object Repository/android.widget.EditText1'
+
+2018-12-12 12:00:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-12-12 12:01:01 - [MESSAGE][PASSED] - Text 'Test1234' has been set to element 'Object Repository/android.widget.EditText1'
+
+2018-12-12 12:01:01 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.Button0 - SIGN IN'
+
+2018-12-12 12:01:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-12-12 12:01:04 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.Button0 - SIGN IN'
+
+2018-12-12 12:01:04 - [TEST_STEP][NOT_RUN] - switchToPortrait: NOT_RUN: switchToPortrait
+
+2018-12-12 12:01:04 - [MESSAGE][NOT_RUN] - NOT_RUN: switchToPortrait
+
+2018-12-12 12:01:04 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.Button0 - AUTHORIZE'
+
+2018-12-12 12:01:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-12-12 12:01:10 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.Button0 - AUTHORIZE'
+
+2018-12-12 12:01:10 - [TEST_STEP][PASSED] - switchToPortrait: Switching the device to portrait mode successfully
+
+2018-12-12 12:01:11 - [MESSAGE][PASSED] - Switching the device to portrait mode successfully
+
+2018-12-12 12:01:11 - [TEST_STEP][PASSED] - setText: Text '1111' has been set to element 'Object Repository/android.widget.EditText0 (2)'
+
+2018-12-12 12:01:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-12-12 12:01:22 - [MESSAGE][PASSED] - Text '1111' has been set to element 'Object Repository/android.widget.EditText0 (2)'
+
+2018-12-12 12:01:22 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.Button0 - unlock with pin'
+
+2018-12-12 12:01:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-12-12 12:01:25 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.Button0 - unlock with pin'
+
+2018-12-12 12:01:25 - [TEST_STEP][PASSED] - switchToPortrait: Switching the device to portrait mode successfully
+
+2018-12-12 12:01:26 - [MESSAGE][PASSED] - Switching the device to portrait mode successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Android create task" classname="Test Cases/Android create task" status="PASSED">
+         <system-out><![CDATA[2018-12-12 12:01:26 - [TEST_CASE][PASSED] - Test Cases/Android create task: Test Cases/Android create task
+
+2018-12-12 12:01:26 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.ImageButton0'
+
+2018-12-12 12:01:26 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-12-12 12:01:52 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.ImageButton0'
+
+2018-12-12 12:01:52 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.ImageButton0 (1)'
+
+2018-12-12 12:01:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-12-12 12:01:58 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.ImageButton0 (1)'
+
+2018-12-12 12:01:58 - [TEST_STEP][PASSED] - setText: Text 'Test task subject' has been set to element 'Object Repository/android.widget.EditText0 - enter a task subject'
+
+2018-12-12 12:01:58 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-12-12 12:02:01 - [MESSAGE][PASSED] - Text 'Test task subject' has been set to element 'Object Repository/android.widget.EditText0 - enter a task subject'
+
+2018-12-12 12:02:01 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.TextView4 - activity type'
+
+2018-12-12 12:02:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-12-12 12:02:06 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.TextView4 - activity type'
+
+2018-12-12 12:02:06 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.TextView12 - Text Message'
+
+2018-12-12 12:02:06 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-12-12 12:02:09 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.TextView12 - Text Message'
+
+2018-12-12 12:02:09 - [TEST_STEP][NOT_RUN] - tap: NOT_RUN: tap
+
+2018-12-12 12:02:09 - [MESSAGE][NOT_RUN] - NOT_RUN: tap
+
+2018-12-12 12:02:09 - [TEST_STEP][NOT_RUN] - tap: NOT_RUN: tap
+
+2018-12-12 12:02:09 - [MESSAGE][NOT_RUN] - NOT_RUN: tap
+
+2018-12-12 12:02:09 - [TEST_STEP][NOT_RUN] - tap: NOT_RUN: tap
+
+2018-12-12 12:02:09 - [MESSAGE][NOT_RUN] - NOT_RUN: tap
+
+2018-12-12 12:02:09 - [TEST_STEP][NOT_RUN] - tap: NOT_RUN: tap
+
+2018-12-12 12:02:09 - [MESSAGE][NOT_RUN] - NOT_RUN: tap
+
+2018-12-12 12:02:09 - [TEST_STEP][NOT_RUN] - setText: NOT_RUN: setText
+
+2018-12-12 12:02:09 - [MESSAGE][NOT_RUN] - NOT_RUN: setText
+
+2018-12-12 12:02:09 - [TEST_STEP][NOT_RUN] - hideKeyboard: NOT_RUN: hideKeyboard
+
+2018-12-12 12:02:09 - [MESSAGE][NOT_RUN] - NOT_RUN: hideKeyboard
+
+2018-12-12 12:02:09 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.TextView1 - ADD'
+
+2018-12-12 12:02:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-12-12 12:02:13 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.TextView1 - ADD'
+
+2018-12-12 12:02:13 - [TEST_STEP][PASSED] - switchToPortrait: Switching the device to portrait mode successfully
+
+2018-12-12 12:02:14 - [MESSAGE][PASSED] - Switching the device to portrait mode successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Android Log Out" classname="Test Cases/Android Log Out" status="PASSED">
+         <system-out><![CDATA[2018-12-12 12:02:14 - [TEST_CASE][PASSED] - Test Cases/Android Log Out: Test Cases/Android Log Out
+
+2018-12-12 12:02:14 - [TEST_STEP][PASSED] - closeApplication: Close app successfully
+
+2018-12-12 12:02:15 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-12-12 11:59:36 - [TEST_SUITE][PASSED] - Basic test: Test Cases/Android Log Out]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
