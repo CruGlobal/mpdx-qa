@@ -9,46 +9,28 @@
          <key>XPATH</key>
          <value>//a[contains(text(),'Contacts')]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'menu-contacts']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tag</name>
+      <name>id</name>
       <type>Main</type>
-      <value>a</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ui-sref</name>
-      <type>Main</type>
-      <value>contacts</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/contacts?page=1</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Contacts</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>/html[@class=&quot;gr__stage_mpdx_org ng-scope&quot;]/body[@class=&quot;ng-scope block-ui block-ui-anim-fade&quot;]/div[@class=&quot;app&quot;]/ui-view[@class=&quot;ng-scope&quot;]/root[@class=&quot;ng-scope ng-isolate-scope&quot;]/menu[@class=&quot;menu-global ng-isolate-scope&quot;]/div[@class=&quot;menu ng-scope&quot;]/nav[@class=&quot;navbar&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;item&quot;]/a[1]</value>
+      <value>menu-contacts</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//li[@id='contactsmenu']/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <value>//a[contains(text(),'Contacts')]</value>

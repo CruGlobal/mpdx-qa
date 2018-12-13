@@ -25,3 +25,5 @@ WebUI.setEncryptedText(findTestObject('Page_Relay  Sign In/input_Password_passwo
 
 WebUI.click(findTestObject('Page_Relay  Sign In/button_Sign In'))
 
+WebUI.click(findTestObject('Object Repository/Page_Relay  Sign In/button_Authorize'))
+
