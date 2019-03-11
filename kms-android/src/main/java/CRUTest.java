@@ -26,6 +26,7 @@ public class CRUTest {
     public static final URL kobitonServerUrl(){
         try {
             String kobitonServerUrl = "https://kobiton-org-demo:0e43710e-a251-40d1-9c72-2f17ed3b098a@api.kobiton.com/wd/hub";
+//            String kobitonServerUrl = "https://kobiton-org:ebaccb5f-0b59-4f59-a119-479da3359314@api.kobiton.com/wd/hub";
 //            String kobitonServerUrl = "http://127.0.0.1:4723/wd/hub";
             return new URL(kobitonServerUrl);
         } catch (MalformedURLException e) {
