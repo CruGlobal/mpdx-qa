@@ -4,7 +4,7 @@
     <list default="true" id="c0ddac01-905e-44d5-a55e-efa3e1626ed3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/CRUTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CRUTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CRUTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CRUTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CRUTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/CRUTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+            <state relative-caret-position="178">
+              <caret line="65" selection-start-line="65" selection-end-line="72" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,10 +63,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1532" />
-    <option name="y" value="46" />
+    <option name="x" value="2116" />
+    <option name="y" value="23" />
     <option name="width" value="1483" />
-    <option name="height" value="962" />
+    <option name="height" value="960" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -113,7 +113,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552084931633" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552426563877" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -202,9 +206,36 @@
     <history-entry file="CRUTest - 2019.03.11 at 11h 15m 04s.xml">
       <configuration name="CRUTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="CRUTest - 2019.03.11 at 13h 33m 16s.xml">
+      <configuration name="CRUTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CRUTest - 2019.03.11 at 13h 34m 34s.xml">
+      <configuration name="CRUTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CRUTest - 2019.03.11 at 13h 37m 21s.xml">
+      <configuration name="CRUTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CRUTest - 2019.03.11 at 13h 39m 09s.xml">
+      <configuration name="CRUTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CRUTest - 2019.03.11 at 13h 58m 11s.xml">
+      <configuration name="CRUTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CRUTest - 2019.03.11 at 14h 12m 33s.xml">
+      <configuration name="CRUTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1532" y="46" width="1483" height="962" extended-state="0" />
+    <frame x="2116" y="23" width="1483" height="960" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25329632" />
@@ -214,17 +245,18 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" visible="true" weight="0.32949308" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32988507" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.75230414" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.499653" weight="0.39976957" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32988507" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32949308" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32949308" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50034696" side_tool="true" weight="0.39976957" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32949308" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32949308" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -234,6 +266,18 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CRUTest.java</url>
+          <line>374</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -245,8 +289,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CRUTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        <state relative-caret-position="178">
+          <caret line="65" selection-start-line="65" selection-end-line="72" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -256,9 +300,81 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>kms-android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib:3.2.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

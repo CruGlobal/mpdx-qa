@@ -1,3 +1,4 @@
+import android.view.*;
 import io.appium.java_client.TouchAction;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidKeyCode;
@@ -25,8 +26,9 @@ public class CRUTest {
 
     public static final URL kobitonServerUrl(){
         try {
-            String kobitonServerUrl = "https://kobiton-org-demo:0e43710e-a251-40d1-9c72-2f17ed3b098a@api.kobiton.com/wd/hub";
-//            String kobitonServerUrl = "https://kobiton-org:ebaccb5f-0b59-4f59-a119-479da3359314@api.kobiton.com/wd/hub";
+//            String kobitonServerUrl = "https://kobiton-org-demo:0e43710e-a251-40d1-9c72-2f17ed3b098a@api.kobiton.com/wd/hub";
+            String kobitonServerUrl = "https://bufordr1:84fd0f29-23e8-47f4-8ba2-223f737ba768@api.kobiton.com/wd/hub";
+//            String kobitonServerUrl = "https://kobiton-org:<APIKey>@api.kobiton.com/wd/hub";
 //            String kobitonServerUrl = "http://127.0.0.1:4723/wd/hub";
             return new URL(kobitonServerUrl);
         } catch (MalformedURLException e) {
@@ -41,7 +43,7 @@ public class CRUTest {
         capabilities.setCapability("sessionDescription", "Test run 1");
         capabilities.setCapability("deviceOrientation", "portrait");
         capabilities.setCapability("captureScreenshots", true);
-        capabilities.setCapability("app", "kobiton-store:26106");
+        capabilities.setCapability("app", "kobiton-store:27296");
         capabilities.setCapability("groupId", 421); // Group: MissionHub
         capabilities.setCapability("deviceGroup", "KOBITON");
         capabilities.setCapability("deviceName", "Galaxy S7*");
@@ -60,6 +62,15 @@ public class CRUTest {
         capabilities.setCapability("fullReset", true);
         return capabilities;
     }
+
+    View decorView = getWindow().getDecorView();
+    // Hide both the navigation bar and the status bar.
+    // SYSTEM_UI_FLAG_FULLSCREEN is only available on Android 4.1 and higher, but as
+    // a general rule, you should design your app to hide the status bar whenever you
+    // hide the navigation bar.
+    int uiOptions = Window.SYSTEM_UI_FLAG_HIDE_NAVIGATION
+            | View.SYSTEM_UI_FLAG_FULLSCREEN;
+    decorView.setSystemUiVisibility(uiOptions);
 
     @BeforeTest
     public void Setup() {
