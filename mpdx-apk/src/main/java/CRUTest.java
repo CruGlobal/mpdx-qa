@@ -1,7 +1,6 @@
 import io.appium.java_client.TouchAction;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.nativekey.AndroidKey;
-/import io.appium.java_client.android.AndroidKeyCode;
 import io.appium.java_client.android.nativekey.KeyEvent;
 import io.appium.java_client.touch.offset.PointOption;
 import org.openqa.selenium.By;
@@ -45,11 +44,10 @@ public class CRUTest {
         capabilities.setCapability("deviceOrientation", "portrait");
         capabilities.setCapability("captureScreenshots", true);
         capabilities.setCapability("app", "kobiton-store:27296");
-        capabilities.setCapability("groupId", 421); // Group: MissionHub
+        capabilities.setCapability("groupId", 420); // Group: MPDx
         capabilities.setCapability("deviceGroup", "KOBITON");
         capabilities.setCapability("deviceName", "Galaxy S7*");
         capabilities.setCapability("platformVersion", "8.*");
-//        capabilities.setCapability("udid", "9887fc41594630315a");
         capabilities.setCapability("appWaitActivity", "org.mpdx.features.onboarding.OnboardingActivity");
         capabilities.setCapability("appPackage", "org.mpdx");
         capabilities.setCapability("platformName", "Android");
@@ -63,8 +61,6 @@ public class CRUTest {
         capabilities.setCapability("fullReset", true);
         return capabilities;
     }
-
-//    iBack == public static AndroidKey valueOf("BACK");
 
     @BeforeTest
     public void Setup() {
@@ -306,7 +302,6 @@ public class CRUTest {
 
         sleep(3);
         driver.pressKey(new KeyEvent(AndroidKey.BACK));
-//        driver.pressKeyCode(AndroidKeyCode.BACK);
         sleep(5);
 
         by = By.xpath("//android.widget.Button[@resource-id='android:id/button3' and @text='ADD INFO']");

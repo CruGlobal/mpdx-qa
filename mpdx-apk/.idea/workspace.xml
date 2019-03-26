@@ -2,141 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d4af770-c27d-4a0d-8c5b-1a7d6da1e179" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_22_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_appium_java_client_6_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openpnp_opencv_3_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/190322-0656-mpdx-apk.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mpdx-apk.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CRUTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CRUTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/mpdx-apk-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__cglib_cglib_3_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__com_google_code_gson_gson_2_8_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__com_google_guava_guava_23_6_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__commons_digester_commons_digester_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__commons_validator_commons_validator_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__io_appium_java_client_6_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_apache_ant_ant_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_openpnp_opencv_3_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_ow2_asm_asm_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/CRU.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/MissionHub.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/src/main/java/missionhub/com/CreateEditProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/src/main/java/missionhub/com/Helper/Commons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/src/main/java/missionhub/com/Helper/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/src/main/java/missionhub/com/Helper/DataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/src/main/java/missionhub/com/Helper/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../missionhub-apk/test_suites/create_edit_profile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mpdx-android" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mpdx-apk.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zip/Cru_MissionHub.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zip/MPDX.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../kms-android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../kms-android/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../kms-android/src/main/java/CRUTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../kms-android/src/main/java/CRUTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CRUTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CRUTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -154,35 +22,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/CRUTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-114">
-              <caret line="93" selection-start-line="93" selection-end-line="93" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.1.0/java-client-6.1.0-sources.jar!/io/appium/java_client/android/nativekey/PressesKey.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="61" column="30" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.1.0/java-client-6.1.0-sources.jar!/io/appium/java_client/android/nativekey/KeyEvent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.1.0/java-client-6.1.0-sources.jar!/io/appium/java_client/android/nativekey/AndroidKey.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            <state relative-caret-position="91">
+              <caret line="32" selection-start-line="31" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -217,14 +61,14 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/AndroidAppTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CRUTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/CRUTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/CRUTest.java" />
       </list>
     </option>
@@ -237,54 +81,26 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="189" />
-    <option name="y" value="160" />
-    <option name="width" value="1399" />
-    <option name="height" value="877" />
+    <option name="x" value="1876" />
+    <option name="y" value="23" />
+    <option name="width" value="1724" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Problems'; set:Problems; class com.intellij.psi.search.scope.ProblemsScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MPDX-apk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mpdx-apk" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MPDX-apk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mpdx-apk" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MPDX-apk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mpdx-apk" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MPDX-apk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mpdx-apk" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553555778680" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553620982316" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -567,28 +383,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="189" y="160" width="1399" height="877" extended-state="0" />
+    <frame x="1876" y="23" width="1724" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1606485" />
-      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1313912" />
+      <window_info id="Structure" order="1" weight="0.24970274" />
       <window_info id="Designer" order="2" />
       <window_info id="Nl-Palette" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="UI Designer" order="7" />
+      <window_info active="true" anchor="bottom" id="Dependency Viewer" visible="true" weight="0.32953367" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="5" weight="0.3299363" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32953367" />
       <window_info anchor="bottom" id="Messages" order="6" weight="0.25049505" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005325" side_tool="true" weight="0.6732673" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32953367" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32953367" />
       <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49946752" weight="0.6732673" />
-      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -598,6 +415,7 @@
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="right" id="Properties" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -627,10 +445,10 @@
     <entry file="file://$PROJECT_DIR$/2.jpg" />
     <entry file="file://$PROJECT_DIR$/1.jpg" />
     <entry file="file://$PROJECT_DIR$/src/main/java/AndroidAppTest.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.1.0/java-client-6.1.0-sources.jar!/io/appium/java_client/android/nativekey/KeyEvent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        <state relative-caret-position="90">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -648,17 +466,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.1.0/java-client-6.1.0-sources.jar!/io/appium/java_client/android/nativekey/KeyEvent.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mpdx-apk.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CRUTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
-          <caret line="93" selection-start-line="93" selection-end-line="93" selection-end-column="34" />
+        <state relative-caret-position="91">
+          <caret line="32" selection-start-line="31" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
