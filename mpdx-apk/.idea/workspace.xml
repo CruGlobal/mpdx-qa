@@ -2,8 +2,143 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d4af770-c27d-4a0d-8c5b-1a7d6da1e179" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__cglib_cglib_3_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__com_google_code_gson_gson_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__com_google_guava_guava_23_6_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__commons_digester_commons_digester_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__commons_validator_commons_validator_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__io_appium_java_client_6_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_apache_ant_ant_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_openpnp_opencv_3_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_ow2_asm_asm_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/libraries/libs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/MPDx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_Android/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPDx_IOS/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/.settings/org.eclipse.jdt.groovy.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Libs/CustomKeywords.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Libs/TempTestCase1544631447563.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Libs/TempTestCase1544631496160.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Libs/TempTestCase1544632046807.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Libs/TempTestCase1544632880290.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Libs/TempTestSuite1544633276851.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Libs/TempTestSuite1544633972397.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Libs/internal/GlobalVariable.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.view.View18 - 18.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.webkit.WebView1 - The Key  Sign In.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.Button0 - AUTHORIZE.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.Button0 - SIGN IN.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.Button0 - confirm pin.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.Button0 - get started.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.Button0 - unlock with pin.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.Button1 - OK.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.Button1 - YES.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.EditText0 (1).rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.EditText0 (2).rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.EditText0 - add comment.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.EditText0 - enter a task subject.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.EditText0.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.EditText1 - add comment.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.EditText1.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.FrameLayout0.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.ImageButton0 (1).rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.ImageButton0.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.LinearLayout0.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.LinearLayout10.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.LinearLayout19.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.LinearLayout31.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.TextView1 - ADD.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.TextView12 - Text Message.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.TextView2.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.TextView20 - Tasks.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.TextView27 - Contacts.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.TextView4 - activity type.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.TextView5 - Logout.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Object Repository/android.widget.TextView8 - date.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Profiles/default.glbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Reports/Basic test/20181212_114756/1544633405385.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Reports/Basic test/20181212_114756/1544633407106.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Reports/Basic test/20181212_114756/1544633438940.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Reports/Basic test/20181212_114756/1544633440821.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Reports/Basic test/20181212_114756/20181212_114756.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Reports/Basic test/20181212_114756/20181212_114756.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Reports/Basic test/20181212_114756/JSON_Report.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Reports/Basic test/20181212_114756/JUnit_Report.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Reports/Basic test/20181212_114756/Report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Reports/Basic test/20181212_114756/execution.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Reports/Basic test/20181212_114756/execution0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Reports/Basic test/20181212_115932/20181212_115932.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Reports/Basic test/20181212_115932/20181212_115932.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Reports/Basic test/20181212_115932/JSON_Report.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Reports/Basic test/20181212_115932/JUnit_Report.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Reports/Basic test/20181212_115932/Report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Reports/Basic test/20181212_115932/execution.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Reports/Basic test/20181212_115932/execution0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Scripts/Android Log In/Script1544633014197.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Scripts/Android Log Out/Script1544633198461.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Scripts/Android create task/Script1544631437250.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Test Cases/Android Log In.tc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Test Cases/Android Log Out.tc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Test Cases/Android create task.tc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Test Suites/Basic test.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/Test Suites/Basic test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/appium.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/console.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/mpdx-android.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/settings/internal/com.kms.katalon.composer.testcase.settings.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/settings/internal/com.kms.katalon.execution.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/settings/internal/com.kms.katalon.execution.webui.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/settings/internal/com.kms.katalon.integration.analytics.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/settings/internal/com.kms.katalon.integration.jira.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mpdx-android/settings/internal/com.kms.katalon.integration.qtest.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,23 +153,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CRUTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="32" selection-start-line="31" selection-end-line="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="570">
+              <caret line="38" selection-start-line="37" selection-end-line="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CRUTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+            <state relative-caret-position="300">
+              <caret line="31" column="115" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="115" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,20 +217,32 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="958" />
+    <option name="height" value="956" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Problems'; set:Problems; class com.intellij.psi.search.scope.ProblemsScope" proportions="" version="1">
+    <navigator currentView="PackagesPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mpdx-apk" type="58d84e3e:PackageViewProjectNode" />
+              <item name="mpdx-apk" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553651489488" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -116,33 +263,6 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.CRUTest">
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <method />
-    </configuration>
     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="myFilePath" />
@@ -340,9 +460,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CRUTest - 2018.10.27 at 21h 52m 09s.xml">
-      <configuration name="CRUTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="CRUTest - 2018.10.27 at 21h 52m 37s.xml">
       <configuration name="CRUTest" configurationId="TestNG" />
     </history-entry>
@@ -370,6 +487,9 @@
     <history-entry file="CRUTest - 2019.03.22 at 16h 22m 06s.xml">
       <configuration name="CRUTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="CRUTest - 2019.05.04 at 09h 16m 23s.xml">
+      <configuration name="CRUTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -381,9 +501,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="958" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="954" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13736264" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14364304" />
       <window_info id="Structure" order="1" weight="0.24970274" />
       <window_info id="Designer" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -391,6 +512,7 @@
       <window_info id="Image Layers" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="UI Designer" order="7" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
@@ -401,7 +523,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005325" side_tool="true" weight="0.6732673" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32953367" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32953367" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49946752" weight="0.6732673" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49946752" weight="0.6726404" />
       <window_info active="true" anchor="bottom" id="Dependency Viewer" order="11" visible="true" weight="0.3601359" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -471,20 +593,20 @@
     <entry file="file://$PROJECT_DIR$/mpdx-apk.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CRUTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="32" selection-start-line="31" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="37" selection-end-line="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CRUTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        <state relative-caret-position="300">
+          <caret line="31" column="115" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="115" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -545,6 +667,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

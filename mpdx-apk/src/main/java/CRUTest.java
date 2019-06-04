@@ -29,7 +29,7 @@ public class CRUTest {
 
     public static final URL kobitonServerUrl(){
         try {
-            String kobitonServerUrl = "https://bufordr1:84fd0f29-23e8-47f4-8ba2-223f737ba768@api.kobiton.com/wd/hub";
+            String kobitonServerUrl = "https://<USER_NAME>:<API_KEY>@api.kobiton.com/wd/hub";
             return new URL(kobitonServerUrl);
         } catch (MalformedURLException e) {
             e.printStackTrace();
