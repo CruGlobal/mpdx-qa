@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MPDx Android App Test With Kobiton">
+    <test name="Run MPDx testcase on devices" >
+        <classes>
+            <class name="com.mpdx.Android_MPDx_Test"/>
+        </classes>
+    </test>
+</suite>
